@@ -1,0 +1,245 @@
+{
+  "slug": "live-music-in-bradenton-fl-weekly-music-nights-at-restaurants-and-bars",
+  "title": "Live music in Bradenton, FL: weekly music nights at restaurants and bars",
+  "city": "Bradenton",
+  "description": "Weekly live music nights at restaurants, bars, and waterfront spots in Bradenton, Cortez, Holmes Beach, Bradenton Beach, and Lakewood Ranch.",
+  "records": [
+    {
+      "name": "88 Live Piano Bar",
+      "location": "6640 Cortez Rd W Suite A, Bradenton, FL 34210",
+      "facts": {
+        "music_nights": "Tuesdays 7-10pm (88 Live Jam); Wednesdays 7-10pm live music; Thursdays 7-10pm live music; Fridays & Saturdays 8-11:30pm dueling pianos (special events may replace regular shows)",
+        "genres": "dueling pianos (classic rock to current hits, audience requests), jam night, live bands, and tribute shows",
+        "cover": "unknown",
+        "setting": "indoor",
+        "venue_type": "piano bar",
+        "food": "bar food",
+        "ages": "unknown",
+        "area": "Bradenton",
+        "tags": [
+          "dance floor",
+          "date night",
+          "dinner menu",
+          "late night",
+          "lively"
+        ]
+      },
+      "website": "https://www.88livebradenton.com/",
+      "phone": "941-900-1133",
+      "source": "https://www.88livebradenton.com/",
+      "checked": "2026-10-31"
+    },
+    {
+      "name": "Swordfish Grill & Tiki Bar",
+      "location": "4628 119th St West, Cortez, FL 34215",
+      "facts": {
+        "music_nights": "Live music 9 times a week: 7 nights a week 5:00-8:00pm, plus Saturday and Sunday lunch 12:00-4:00pm",
+        "genres": "local musicians",
+        "cover": "unknown",
+        "setting": "waterfront",
+        "venue_type": "restaurant",
+        "food": "full menu",
+        "ages": "unknown",
+        "area": "Cortez",
+        "tags": [
+          "waterfront",
+          "outdoor seating",
+          "dinner menu",
+          "family friendly"
+        ]
+      },
+      "website": "https://www.swordfishgrillcortez.com/",
+      "phone": "941-798-2035",
+      "source": "https://www.swordfishgrillcortez.com/news-events/",
+      "checked": "2026-10-31"
+    },
+    {
+      "name": "The Ugly Grouper",
+      "location": "5704 Marina Dr., Holmes Beach, FL 34217",
+      "facts": {
+        "music_nights": "Live music daily",
+        "genres": "beach-favored covers and original music",
+        "cover": "unknown",
+        "setting": "outdoor",
+        "venue_type": "restaurant",
+        "food": "full menu",
+        "ages": "all ages",
+        "area": "Holmes Beach",
+        "tags": [
+          "family friendly",
+          "outdoor seating",
+          "dinner menu"
+        ]
+      },
+      "website": "https://www.theuglygrouper.com/",
+      "phone": "",
+      "source": "https://www.theuglygrouper.com/",
+      "checked": "2026-10-31"
+    },
+    {
+      "name": "Freckled Fin Irish Pub",
+      "location": "5337 Gulf Drive North, Holmes Beach, FL 34217",
+      "facts": {
+        "music_nights": "Live music most nights; Monday karaoke",
+        "genres": "acoustic, rock, and reggae",
+        "cover": "unknown",
+        "setting": "mixed",
+        "venue_type": "Irish pub",
+        "food": "full menu",
+        "ages": "all ages",
+        "area": "Holmes Beach",
+        "tags": [
+          "family friendly",
+          "outdoor seating",
+          "dog friendly",
+          "dinner menu",
+          "late night"
+        ]
+      },
+      "website": "https://www.freckledfin.com/",
+      "phone": "941-251-3930",
+      "source": "https://www.freckledfin.com/",
+      "checked": "2026-10-31"
+    },
+    {
+      "name": "Clancy's Irish Sports Pub & Grill",
+      "location": "6218 Cortez Rd. West, Bradenton, FL 34210",
+      "facts": {
+        "music_nights": "Tuesdays: live music; Thurs-Sun: live music; karaoke Thurs-Sat 9pm",
+        "genres": "local bands",
+        "cover": "unknown",
+        "setting": "mixed",
+        "venue_type": "Irish sports pub",
+        "food": "full menu",
+        "ages": "unknown",
+        "area": "Bradenton",
+        "tags": [
+          "outdoor seating",
+          "dinner menu"
+        ]
+      },
+      "website": "https://clancysirishsportspub.com/",
+      "phone": "(941) 794-2489",
+      "source": "https://clancysirishsportspub.com/",
+      "checked": "2026-10-31"
+    },
+    {
+      "name": "Ed's Tavern SR64",
+      "location": "1305 108th Street East, Bradenton, FL 34212",
+      "facts": {
+        "music_nights": "Tuesday live music 7pm; Friday live music 8pm; Saturday live music 8pm",
+        "genres": "local musicians and bands",
+        "cover": "Free",
+        "setting": "mixed",
+        "venue_type": "sports bar",
+        "food": "full menu",
+        "ages": "all ages",
+        "area": "Bradenton",
+        "tags": [
+          "family friendly",
+          "dinner menu",
+          "no cover",
+          "outdoor seating"
+        ]
+      },
+      "website": "https://edstavernfl.com/s64/",
+      "phone": "(941) 329-1010",
+      "source": "https://edstavernfl.com/s64/llm-info/",
+      "checked": "2026-10-31"
+    },
+    {
+      "name": "Ed's Tavern Lakewood Ranch",
+      "location": "10719 Rodeo Drive, Lakewood Ranch, FL 34202",
+      "facts": {
+        "music_nights": "Every Friday 8:00pm; every Saturday 8:00pm",
+        "genres": "classic rock, modern hits, and everything in between",
+        "cover": "unknown",
+        "setting": "unknown",
+        "venue_type": "sports bar",
+        "food": "full menu",
+        "ages": "all ages",
+        "area": "Lakewood Ranch",
+        "tags": [
+          "family friendly",
+          "dinner menu",
+          "late night"
+        ]
+      },
+      "website": "https://edstavernfl.com/",
+      "phone": "(941) 907-0400",
+      "source": "https://edstavernfl.com/friday-live-music-lakewood-ranch/",
+      "checked": "2026-10-31"
+    },
+    {
+      "name": "Drift-In AMI",
+      "location": "120 Bridge St., Bradenton Beach, FL 34217",
+      "facts": {
+        "music_nights": "Live music almost every night",
+        "genres": "yacht rock, rock, blues, funk, country, rockabilly, and reggae",
+        "cover": "unknown",
+        "setting": "mixed",
+        "venue_type": "bar",
+        "food": "unknown",
+        "ages": "unknown",
+        "area": "Bradenton Beach",
+        "tags": [
+          "late night",
+          "outdoor seating"
+        ]
+      },
+      "website": "https://driftinami.com/",
+      "phone": "",
+      "source": "https://driftinami.com/events",
+      "checked": "2026-10-31"
+    },
+    {
+      "name": "Island Time",
+      "location": "Bridge Street circle, Anna Maria Island",
+      "facts": {
+        "music_nights": "Live music nightly from 7-10pm",
+        "genres": "local acts",
+        "cover": "unknown",
+        "setting": "waterfront",
+        "venue_type": "bar and grill",
+        "food": "full menu",
+        "ages": "unknown",
+        "area": "Anna Maria Island",
+        "tags": [
+          "waterfront",
+          "dinner menu"
+        ]
+      },
+      "website": "https://islandtimebarandgrill.com/",
+      "phone": "",
+      "source": "https://islandtimebarandgrill.com/about/",
+      "checked": "2026-10-31"
+    },
+    {
+      "name": "Mattison's Riverwalk Grille",
+      "location": "101 Riverfront Blvd #120, Bradenton, FL 34205",
+      "facts": {
+        "music_nights": "Live entertainment nightly; Blues Brunch every 4th Sunday 11am-3pm",
+        "genres": "blues, jazz, rock, pop, country, and more",
+        "cover": "unknown",
+        "setting": "waterfront",
+        "venue_type": "restaurant",
+        "food": "full menu",
+        "ages": "unknown",
+        "area": "Downtown Bradenton",
+        "tags": [
+          "waterfront",
+          "outdoor seating",
+          "dinner menu"
+        ]
+      },
+      "website": "https://mattisons.com/",
+      "phone": "941-896-9660",
+      "source": "https://mattisons.com/news-blog/8-blog/45-legendary-braille-blues-daddy-bryan-lee-returns-to-mattisons-blues-brunch",
+      "checked": "2026-10-31"
+    }
+  ],
+  "body_md": "Live music is listed in the Bradenton area on every night of the week. Some venues post sets seven nights a week, daily, nightly, most nights, or almost every night; others name specific weekdays, weekend dueling pianos, karaoke, or a Blues Brunch every 4th Sunday. Match the day you are going to the nights below, then confirm on the venue's own page before you head out.\n\n## By night of the week\n\nRooms that list music across the week:\n\n- Swordfish Grill & Tiki Bar: 7 nights a week, 5:00–8:00pm, plus Saturday and Sunday lunch 12:00–4:00pm\n- The Ugly Grouper: live music daily\n- Island Time: live music nightly, 7–10pm\n- Mattison's Riverwalk Grille: live entertainment nightly; Blues Brunch every 4th Sunday, 11am–3pm\n- Freckled Fin Irish Pub: live music most nights; Monday karaoke\n- Drift-In AMI: live music almost every night\n\nNamed nights, added to that list:\n\n- **Monday:** the across-the-week rooms, including Monday karaoke at Freckled Fin Irish Pub.\n- **Tuesday:** 88 Live Piano Bar (88 Live Jam, 7–10pm); Clancy's Irish Sports Pub & Grill (live music); Ed's Tavern SR64 (7pm).\n- **Wednesday:** 88 Live Piano Bar (live music, 7–10pm).\n- **Thursday:** 88 Live Piano Bar (live music, 7–10pm); Clancy's Irish Sports Pub & Grill (live music; karaoke Thursday–Saturday at 9pm).\n- **Friday:** 88 Live Piano Bar (dueling pianos, 8–11:30pm; special events may replace regular shows); Clancy's Irish Sports Pub & Grill (live music; karaoke at 9pm); Ed's Tavern SR64 (8pm); Ed's Tavern Lakewood Ranch (8:00pm).\n- **Saturday:** 88 Live Piano Bar (dueling pianos, 8–11:30pm; special events may replace regular shows); Clancy's Irish Sports Pub & Grill (live music; karaoke at 9pm); Ed's Tavern SR64 (8pm); Ed's Tavern Lakewood Ranch (8:00pm).\n- **Sunday:** Clancy's Irish Sports Pub & Grill (live music, Thursday–Sunday).\n\n## At a glance\n\n- **Cover:** Ed's Tavern SR64 lists cover as free. Cover is not listed for the other venues in this guide.\n- **Setting:** Indoor: 88 Live Piano Bar. Outdoor: The Ugly Grouper. Waterfront: Swordfish Grill & Tiki Bar, Island Time, and Mattison's Riverwalk Grille. Mixed: Freckled Fin Irish Pub, Clancy's Irish Sports Pub & Grill, Ed's Tavern SR64, and Drift-In AMI. Setting is not listed for Ed's Tavern Lakewood Ranch.\n- **Food:** Bar food is listed at 88 Live Piano Bar. A full menu is listed at Swordfish Grill & Tiki Bar, The Ugly Grouper, Freckled Fin Irish Pub, Clancy's Irish Sports Pub & Grill, both Ed's Tavern locations, Island Time, and Mattison's Riverwalk Grille. Food is not listed for Drift-In AMI.\n- **Ages:** All ages is listed at The Ugly Grouper, Freckled Fin Irish Pub, Ed's Tavern SR64, and Ed's Tavern Lakewood Ranch. Ages are not listed for the other venues. A family-friendly tag is also listed at those four and at Swordfish Grill & Tiki Bar.\n\n## Before you go\n\nAt 88 Live Piano Bar, special events may replace regular Friday and Saturday shows. “Most nights” and “almost every night” are the posted phrases for Freckled Fin Irish Pub and Drift-In AMI, so confirm the date you want.\n\nListed areas include Bradenton, Downtown Bradenton, Cortez, Holmes Beach, Bradenton Beach, Anna Maria Island, and Lakewood Ranch. Freckled Fin Irish Pub lists a dog-friendly tag. Late night is a listed tag at 88 Live Piano Bar, Freckled Fin Irish Pub, Ed's Tavern Lakewood Ranch, and Drift-In AMI.\n\nThese listings were checked on 2026-10-31. Schedules change, so check the venue's own page the day you go.\n\n## FAQ\n\n### Is there live music around Bradenton tonight?\n\nYes. Every night has at least one posting in this guide, including seven nights a week, daily, nightly, most nights, almost every night, or a named weekday. Use the day list above, then check that venue's page the day you go.\n\n### What styles of music are listed?\n\nListed styles include dueling pianos with audience requests, jam night, live bands, tribute shows, local musicians and bands, beach-favored covers and original music, acoustic, rock, reggae, classic rock, modern hits, yacht rock, blues, funk, country, rockabilly, jazz, and pop.\n\n### Is there a cover, and which rooms list all ages?\n\nEd's Tavern SR64 lists cover as free. Cover is not listed for the other venues. All ages is listed at The Ugly Grouper, Freckled Fin Irish Pub, Ed's Tavern SR64, and Ed's Tavern Lakewood Ranch. Ages are not listed for the remaining venues.",
+  "citations": [],
+  "published": "2026-10-31",
+  "updated": "2026-10-31"
+}

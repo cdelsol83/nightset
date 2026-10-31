@@ -1,0 +1,200 @@
+{
+  "slug": "live-music-in-st-petersburg-fl-weekly-music-nights-at-restaurants-and-bars",
+  "title": "Live music in St. Petersburg, FL: weekly music nights at restaurants and bars",
+  "city": "St. Petersburg",
+  "description": "Weekly and nightly live music at restaurants, bars, and breweries in St. Petersburg, St. Pete Beach, Treasure Island, and Gulfport.",
+  "records": [
+    {
+      "name": "COPA",
+      "location": "1047 Central Ave, St. Petersburg, FL 33705",
+      "facts": {
+        "music_nights": "Live jazz sessions each and every Sunday from 3pm: 3pm session (doors 2:45pm, concludes 4:30pm) and 5pm session (doors 4:45pm, concludes 6:30pm)",
+        "genres": "Afro-Latin jazz, Afro-Cuban rhythms, Brazilian bossa nova, Spanish flamenco, classic jazz standards, and Latin funk",
+        "cover": "unknown",
+        "setting": "mixed",
+        "venue_type": "restaurant",
+        "food": "full menu",
+        "ages": "unknown",
+        "area": "Downtown St. Petersburg",
+        "tags": [
+          "date night",
+          "dinner menu",
+          "lively",
+          "outdoor seating",
+          "late night"
+        ]
+      },
+      "website": "https://www.copadtsp.com",
+      "phone": "(727) 623-9199",
+      "source": "https://www.copadtsp.com/sunday-latin-jazz",
+      "checked": "2026-10-31"
+    },
+    {
+      "name": "Ruby's Elixir",
+      "location": "15 3rd St N, St. Petersburg, FL 33701",
+      "facts": {
+        "music_nights": "Live music 7 days a week; shows typically begin at 6:30pm, with some special late-night sets on weekends",
+        "genres": "Jazz, classic rock, blues rock, and soul",
+        "cover": "unknown",
+        "setting": "indoor",
+        "venue_type": "bar",
+        "food": "unknown",
+        "ages": "unknown",
+        "area": "Downtown St. Petersburg",
+        "tags": [
+          "conversation friendly",
+          "lively",
+          "late night"
+        ]
+      },
+      "website": "https://rubyselixir.com/",
+      "phone": "(727) 898-2442",
+      "source": "https://rubyselixir.com/",
+      "checked": "2026-10-31"
+    },
+    {
+      "name": "The Ale and the Witch",
+      "location": "111 2nd Ave NE, Saint Petersburg, FL 33701",
+      "facts": {
+        "music_nights": "Witchgrass Wednesday live bluegrass jam every Wednesday night 7-9pm; Thursday Therapy Songwriter Night 7:30-9:30pm, with additional evening shows listed on the schedule",
+        "genres": "Blues, rock, bluegrass, jazz, and folk",
+        "cover": "Free",
+        "setting": "mixed",
+        "venue_type": "bar",
+        "food": "unknown",
+        "ages": "unknown",
+        "area": "Downtown St. Petersburg",
+        "tags": [
+          "no cover",
+          "outdoor seating",
+          "dog friendly"
+        ]
+      },
+      "website": "http://www.thealeandthewitch.com/",
+      "phone": "",
+      "source": "http://www.thealeandthewitch.com/about",
+      "checked": "2026-10-31"
+    },
+    {
+      "name": "Cage Brewing",
+      "location": "2001 1st Ave S, St. Petersburg, FL 33712",
+      "facts": {
+        "music_nights": "Live bands most nights of the week",
+        "genres": "unknown",
+        "cover": "Free or ticketed",
+        "setting": "mixed",
+        "venue_type": "brewery",
+        "food": "full menu",
+        "ages": "all ages",
+        "area": "Grand Central District, St. Petersburg",
+        "tags": [
+          "family friendly",
+          "dog friendly",
+          "outdoor seating",
+          "dinner menu"
+        ]
+      },
+      "website": "https://cagebrewing.com/",
+      "phone": "(727) 201-4278",
+      "source": "https://cagebrewing.com/music",
+      "checked": "2026-10-31"
+    },
+    {
+      "name": "Sober Bar & Kitchen",
+      "location": "3062 Beach Blvd S, Gulfport, FL 33707",
+      "facts": {
+        "music_nights": "Live jazz every Sunday with the Western Gypsies during brunch, 10am to 1pm",
+        "genres": "Gypsy jazz, blues, and bossa nova",
+        "cover": "unknown",
+        "setting": "indoor",
+        "venue_type": "bar",
+        "food": "full menu",
+        "ages": "unknown",
+        "area": "Gulfport",
+        "tags": [
+          "dinner menu"
+        ]
+      },
+      "website": "https://www.sipsoberbar.com/",
+      "phone": "(813) 586-1660",
+      "source": "https://www.sipsoberbar.com/",
+      "checked": "2026-10-31"
+    },
+    {
+      "name": "Jimmy B's Beach Bar",
+      "location": "6200 Gulf Blvd, St. Pete Beach, FL 33706",
+      "facts": {
+        "music_nights": "Live music 365 days a year, with top bands and artists playing every day on the open-air stage and the late-night indoor stage",
+        "genres": "Rock, pop, top 40, country, funk, disco, R&B, and oldies",
+        "cover": "unknown",
+        "setting": "mixed",
+        "venue_type": "bar",
+        "food": "full menu",
+        "ages": "unknown",
+        "area": "St. Pete Beach",
+        "tags": [
+          "waterfront",
+          "outdoor seating",
+          "dinner menu",
+          "late night",
+          "dance floor",
+          "lively"
+        ]
+      },
+      "website": "https://www.jimmybsbeachbar.com/",
+      "phone": "(727) 367-1902",
+      "source": "https://www.jimmybsbeachbar.com/meet-the-bands/",
+      "checked": "2026-10-31"
+    },
+    {
+      "name": "The Drunken Clam",
+      "location": "46 46th Avenue, St. Pete Beach, FL 33706",
+      "facts": {
+        "music_nights": "Live music Tuesday through Saturday nights; music begins at 7pm and ends at 11pm",
+        "genres": "Rock, blues, reggae, beach, and current popular songs",
+        "cover": "unknown",
+        "setting": "mixed",
+        "venue_type": "bar",
+        "food": "bar food",
+        "ages": "unknown",
+        "area": "St. Pete Beach",
+        "tags": [
+          "outdoor seating"
+        ]
+      },
+      "website": "https://www.drunkenclambar.com/",
+      "phone": "727-360-1800",
+      "source": "https://www.drunkenclambar.com/index.php",
+      "checked": "2026-10-31"
+    },
+    {
+      "name": "Ka'Tiki",
+      "location": "8803 West Gulf Blvd, Treasure Island, FL 33706",
+      "facts": {
+        "music_nights": "Live music playing 7 days a week",
+        "genres": "Rock, blues, reggae, R&B, acoustic, and more",
+        "cover": "unknown",
+        "setting": "waterfront",
+        "venue_type": "bar",
+        "food": "bar food",
+        "ages": "21+",
+        "area": "Treasure Island",
+        "tags": [
+          "waterfront",
+          "outdoor seating",
+          "21+",
+          "late night",
+          "lively"
+        ]
+      },
+      "website": "https://www.katikisunsetbeach.com/",
+      "phone": "727-360-2272",
+      "source": "https://www.katikisunsetbeach.com/",
+      "checked": "2026-10-31"
+    }
+  ],
+  "body_md": "Live music runs somewhere in the St. Petersburg area every day of the week. Restaurants, bars, and a brewery across downtown, the Grand Central District, Gulfport, St. Pete Beach, and Treasure Island list weekly or daily sets, from Sunday jazz to all-week stages. If you are picking a spot for tonight, match the night below to the hours each venue lists, then confirm on that venue’s own page before you go.\n\n## By night of the week\n\n- **Every day:** Ruby’s Elixir lists live music seven days a week; shows typically begin at 6:30pm, with some special late-night sets on weekends (jazz, classic rock, blues rock, and soul). Jimmy B’s Beach Bar lists live music 365 days a year, with bands and artists every day on the open-air stage and the late-night indoor stage (rock, pop, top 40, country, funk, disco, R&B, and oldies). Ka’Tiki lists live music seven days a week (rock, blues, reggae, R&B, acoustic, and more).\n- **Most nights:** Cage Brewing lists live bands most nights of the week.\n- **Sunday:** COPA lists live jazz each and every Sunday: a 3pm session (doors 2:45pm, concludes 4:30pm) and a 5pm session (doors 4:45pm, concludes 6:30pm), with Afro-Latin jazz, Afro-Cuban rhythms, Brazilian bossa nova, Spanish flamenco, classic jazz standards, and Latin funk. Sober Bar & Kitchen lists live jazz every Sunday with the Western Gypsies during brunch, 10am to 1pm (gypsy jazz, blues, and bossa nova). The daily listings also include Sunday.\n- **Tuesday through Saturday:** The Drunken Clam lists live music Tuesday through Saturday nights, beginning at 7pm and ending at 11pm (rock, blues, reggae, beach, and current popular songs).\n- **Wednesday:** The Ale and the Witch lists Witchgrass Wednesday, a live bluegrass jam every Wednesday night from 7pm to 9pm, plus additional evening shows on the schedule (blues, rock, bluegrass, jazz, and folk).\n- **Thursday:** The Ale and the Witch lists Thursday Therapy Songwriter Night from 7:30pm to 9:30pm, with additional evening shows listed on the schedule.\n\n## At a glance\n\n- **Cover:** The Ale and the Witch lists live music as free. Cage Brewing lists shows as free or ticketed. Cover is not listed for the other venues.\n- **Setting:** Ruby’s Elixir and Sober Bar & Kitchen are listed as indoor. COPA, The Ale and the Witch, Cage Brewing, Jimmy B’s Beach Bar, and The Drunken Clam are listed as mixed. Ka’Tiki is listed as waterfront, and Jimmy B’s Beach Bar is also tagged waterfront.\n- **Food:** COPA, Cage Brewing, Sober Bar & Kitchen, and Jimmy B’s Beach Bar list a full menu. The Drunken Clam and Ka’Tiki list bar food. Food is not listed for Ruby’s Elixir or The Ale and the Witch.\n- **Ages:** Cage Brewing is listed as all ages. Ka’Tiki is listed as 21+. An age policy is not listed for the other venues.\n\n## Before you go\n\nDoor and start times vary by listing. COPA’s Sunday doors are 2:45pm and 4:45pm. Jimmy B’s Beach Bar lists an open-air stage and a late-night indoor stage.\n\nCOPA, Ruby’s Elixir, and The Ale and the Witch are in downtown St. Petersburg. Cage Brewing is in the Grand Central District. Sober Bar & Kitchen is in Gulfport. Jimmy B’s Beach Bar and The Drunken Clam are in St. Pete Beach. Ka’Tiki is on Treasure Island. The Ale and the Witch and Cage Brewing are tagged dog friendly.\n\nSchedules change. These details were checked on October 31, 2026. Check the venue’s own page the day you go.\n\n## FAQ\n\n### Which places list live music every day?\n\nRuby’s Elixir and Ka’Tiki list live music seven days a week. Jimmy B’s Beach Bar lists live music 365 days a year. Cage Brewing lists live bands most nights of the week.\n\n### Is cover listed?\n\nThe Ale and the Witch lists live music as free. Cage Brewing lists shows as free or ticketed. Cover is not listed for the other venues, so check the venue page the day you go.\n\n### What Sunday hours are listed?\n\nSober Bar & Kitchen lists brunch jazz from 10am to 1pm. COPA lists a 3pm session (doors 2:45pm, concludes 4:30pm) and a 5pm session (doors 4:45pm, concludes 6:30pm). Ruby’s Elixir’s daily shows typically begin at 6:30pm.",
+  "citations": [],
+  "published": "2026-10-31",
+  "updated": "2026-10-31"
+}

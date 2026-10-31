@@ -1,0 +1,392 @@
+[
+  {
+    "title": "Live music in St. Petersburg, FL: weekly music nights at restaurants and bars",
+    "city": "St. Petersburg",
+    "status": "published"
+  },
+  {
+    "title": "Live music in Bradenton, FL: weekly music nights at restaurants and bars",
+    "city": "Bradenton",
+    "status": "published"
+  },
+  {
+    "title": "Live music in Sarasota, FL: weekly music nights at restaurants and bars",
+    "city": "Sarasota",
+    "status": "queued"
+  },
+  {
+    "title": "Live music in Venice, FL: weekly music nights at restaurants and bars",
+    "city": "Venice",
+    "status": "queued"
+  },
+  {
+    "title": "Live music in Punta Gorda, FL: weekly music nights at restaurants and bars",
+    "city": "Punta Gorda",
+    "status": "queued"
+  },
+  {
+    "title": "Live music in Fort Myers, FL: weekly music nights at restaurants and bars",
+    "city": "Fort Myers",
+    "status": "queued"
+  },
+  {
+    "title": "Waterfront and outdoor live music in St. Petersburg, FL",
+    "city": "St. Petersburg",
+    "status": "queued"
+  },
+  {
+    "title": "Waterfront and outdoor live music in Bradenton, FL",
+    "city": "Bradenton",
+    "status": "queued"
+  },
+  {
+    "title": "Waterfront and outdoor live music in Sarasota, FL",
+    "city": "Sarasota",
+    "status": "queued"
+  },
+  {
+    "title": "Waterfront and outdoor live music in Venice, FL",
+    "city": "Venice",
+    "status": "queued"
+  },
+  {
+    "title": "Waterfront and outdoor live music in Punta Gorda, FL",
+    "city": "Punta Gorda",
+    "status": "queued"
+  },
+  {
+    "title": "Waterfront and outdoor live music in Fort Myers, FL",
+    "city": "Fort Myers",
+    "status": "queued"
+  },
+  {
+    "title": "Date night with live music in St. Petersburg, FL",
+    "city": "St. Petersburg",
+    "status": "queued"
+  },
+  {
+    "title": "Date night with live music in Bradenton, FL",
+    "city": "Bradenton",
+    "status": "queued"
+  },
+  {
+    "title": "Date night with live music in Sarasota, FL",
+    "city": "Sarasota",
+    "status": "queued"
+  },
+  {
+    "title": "Date night with live music in Venice, FL",
+    "city": "Venice",
+    "status": "queued"
+  },
+  {
+    "title": "Date night with live music in Punta Gorda, FL",
+    "city": "Punta Gorda",
+    "status": "queued"
+  },
+  {
+    "title": "Date night with live music in Fort Myers, FL",
+    "city": "Fort Myers",
+    "status": "queued"
+  },
+  {
+    "title": "Jazz dinner spots in St. Petersburg, FL",
+    "city": "St. Petersburg",
+    "status": "queued"
+  },
+  {
+    "title": "Jazz dinner spots in Bradenton, FL",
+    "city": "Bradenton",
+    "status": "queued"
+  },
+  {
+    "title": "Jazz dinner spots in Sarasota, FL",
+    "city": "Sarasota",
+    "status": "queued"
+  },
+  {
+    "title": "Jazz dinner spots in Venice, FL",
+    "city": "Venice",
+    "status": "queued"
+  },
+  {
+    "title": "Jazz dinner spots in Punta Gorda, FL",
+    "city": "Punta Gorda",
+    "status": "queued"
+  },
+  {
+    "title": "Jazz dinner spots in Fort Myers, FL",
+    "city": "Fort Myers",
+    "status": "queued"
+  },
+  {
+    "title": "Family-friendly live music in St. Petersburg, FL",
+    "city": "St. Petersburg",
+    "status": "queued"
+  },
+  {
+    "title": "Family-friendly live music in Bradenton, FL",
+    "city": "Bradenton",
+    "status": "queued"
+  },
+  {
+    "title": "Family-friendly live music in Sarasota, FL",
+    "city": "Sarasota",
+    "status": "queued"
+  },
+  {
+    "title": "Family-friendly live music in Venice, FL",
+    "city": "Venice",
+    "status": "queued"
+  },
+  {
+    "title": "Family-friendly live music in Punta Gorda, FL",
+    "city": "Punta Gorda",
+    "status": "queued"
+  },
+  {
+    "title": "Family-friendly live music in Fort Myers, FL",
+    "city": "Fort Myers",
+    "status": "queued"
+  },
+  {
+    "title": "Live music with no cover charge in St. Petersburg, FL",
+    "city": "St. Petersburg",
+    "status": "queued"
+  },
+  {
+    "title": "Live music with no cover charge in Bradenton, FL",
+    "city": "Bradenton",
+    "status": "queued"
+  },
+  {
+    "title": "Live music with no cover charge in Sarasota, FL",
+    "city": "Sarasota",
+    "status": "queued"
+  },
+  {
+    "title": "Live music with no cover charge in Venice, FL",
+    "city": "Venice",
+    "status": "queued"
+  },
+  {
+    "title": "Live music with no cover charge in Punta Gorda, FL",
+    "city": "Punta Gorda",
+    "status": "queued"
+  },
+  {
+    "title": "Live music with no cover charge in Fort Myers, FL",
+    "city": "Fort Myers",
+    "status": "queued"
+  },
+  {
+    "title": "Brunch with live music in St. Petersburg, FL",
+    "city": "St. Petersburg",
+    "status": "queued"
+  },
+  {
+    "title": "Brunch with live music in Bradenton, FL",
+    "city": "Bradenton",
+    "status": "queued"
+  },
+  {
+    "title": "Brunch with live music in Sarasota, FL",
+    "city": "Sarasota",
+    "status": "queued"
+  },
+  {
+    "title": "Brunch with live music in Venice, FL",
+    "city": "Venice",
+    "status": "queued"
+  },
+  {
+    "title": "Brunch with live music in Punta Gorda, FL",
+    "city": "Punta Gorda",
+    "status": "queued"
+  },
+  {
+    "title": "Brunch with live music in Fort Myers, FL",
+    "city": "Fort Myers",
+    "status": "queued"
+  },
+  {
+    "title": "Breweries with live music in St. Petersburg, FL",
+    "city": "St. Petersburg",
+    "status": "queued"
+  },
+  {
+    "title": "Breweries with live music in Bradenton, FL",
+    "city": "Bradenton",
+    "status": "queued"
+  },
+  {
+    "title": "Breweries with live music in Sarasota, FL",
+    "city": "Sarasota",
+    "status": "queued"
+  },
+  {
+    "title": "Breweries with live music in Venice, FL",
+    "city": "Venice",
+    "status": "queued"
+  },
+  {
+    "title": "Breweries with live music in Punta Gorda, FL",
+    "city": "Punta Gorda",
+    "status": "queued"
+  },
+  {
+    "title": "Breweries with live music in Fort Myers, FL",
+    "city": "Fort Myers",
+    "status": "queued"
+  },
+  {
+    "title": "Blues and rock bars with live bands in St. Petersburg, FL",
+    "city": "St. Petersburg",
+    "status": "queued"
+  },
+  {
+    "title": "Blues and rock bars with live bands in Bradenton, FL",
+    "city": "Bradenton",
+    "status": "queued"
+  },
+  {
+    "title": "Blues and rock bars with live bands in Sarasota, FL",
+    "city": "Sarasota",
+    "status": "queued"
+  },
+  {
+    "title": "Blues and rock bars with live bands in Venice, FL",
+    "city": "Venice",
+    "status": "queued"
+  },
+  {
+    "title": "Blues and rock bars with live bands in Punta Gorda, FL",
+    "city": "Punta Gorda",
+    "status": "queued"
+  },
+  {
+    "title": "Blues and rock bars with live bands in Fort Myers, FL",
+    "city": "Fort Myers",
+    "status": "queued"
+  },
+  {
+    "title": "Open mic and jam nights in St. Petersburg, FL",
+    "city": "St. Petersburg",
+    "status": "queued"
+  },
+  {
+    "title": "Open mic and jam nights in Bradenton, FL",
+    "city": "Bradenton",
+    "status": "queued"
+  },
+  {
+    "title": "Open mic and jam nights in Sarasota, FL",
+    "city": "Sarasota",
+    "status": "queued"
+  },
+  {
+    "title": "Open mic and jam nights in Venice, FL",
+    "city": "Venice",
+    "status": "queued"
+  },
+  {
+    "title": "Open mic and jam nights in Punta Gorda, FL",
+    "city": "Punta Gorda",
+    "status": "queued"
+  },
+  {
+    "title": "Open mic and jam nights in Fort Myers, FL",
+    "city": "Fort Myers",
+    "status": "queued"
+  },
+  {
+    "title": "Country music and line dancing in St. Petersburg, FL",
+    "city": "St. Petersburg",
+    "status": "queued"
+  },
+  {
+    "title": "Country music and line dancing in Bradenton, FL",
+    "city": "Bradenton",
+    "status": "queued"
+  },
+  {
+    "title": "Country music and line dancing in Sarasota, FL",
+    "city": "Sarasota",
+    "status": "queued"
+  },
+  {
+    "title": "Country music and line dancing in Venice, FL",
+    "city": "Venice",
+    "status": "queued"
+  },
+  {
+    "title": "Country music and line dancing in Punta Gorda, FL",
+    "city": "Punta Gorda",
+    "status": "queued"
+  },
+  {
+    "title": "Country music and line dancing in Fort Myers, FL",
+    "city": "Fort Myers",
+    "status": "queued"
+  },
+  {
+    "title": "Latin and salsa nights in St. Petersburg, FL",
+    "city": "St. Petersburg",
+    "status": "queued"
+  },
+  {
+    "title": "Latin and salsa nights in Bradenton, FL",
+    "city": "Bradenton",
+    "status": "queued"
+  },
+  {
+    "title": "Latin and salsa nights in Sarasota, FL",
+    "city": "Sarasota",
+    "status": "queued"
+  },
+  {
+    "title": "Latin and salsa nights in Venice, FL",
+    "city": "Venice",
+    "status": "queued"
+  },
+  {
+    "title": "Latin and salsa nights in Punta Gorda, FL",
+    "city": "Punta Gorda",
+    "status": "queued"
+  },
+  {
+    "title": "Latin and salsa nights in Fort Myers, FL",
+    "city": "Fort Myers",
+    "status": "queued"
+  },
+  {
+    "title": "Concert halls and listening rooms in St. Petersburg, FL",
+    "city": "St. Petersburg",
+    "status": "queued"
+  },
+  {
+    "title": "Concert halls and listening rooms in Bradenton, FL",
+    "city": "Bradenton",
+    "status": "queued"
+  },
+  {
+    "title": "Concert halls and listening rooms in Sarasota, FL",
+    "city": "Sarasota",
+    "status": "queued"
+  },
+  {
+    "title": "Concert halls and listening rooms in Venice, FL",
+    "city": "Venice",
+    "status": "queued"
+  },
+  {
+    "title": "Concert halls and listening rooms in Punta Gorda, FL",
+    "city": "Punta Gorda",
+    "status": "queued"
+  },
+  {
+    "title": "Concert halls and listening rooms in Fort Myers, FL",
+    "city": "Fort Myers",
+    "status": "queued"
+  }
+]
