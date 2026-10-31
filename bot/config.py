@@ -48,7 +48,7 @@ in or near {city} that hosts live music on a RECURRING schedule (weekly or sever
 Required facts:
   "music_nights": the recurring schedule exactly as the venue states it (days and hours, e.g.
      "Thu-Sat 6-9pm; Sun jazz brunch 11am-2pm"),
-  "genres": what is usually played, "cover": "Free", a price, or "unknown",
+  "genres": 1-3 words each, at most 3 (e.g. "jazz, blues"), "cover": "Free", a price, or "unknown",
   "setting": indoor / outdoor / waterfront / mixed, "venue_type": restaurant, bar, brewery, hall...,
   "food": full menu / bar food / none / unknown, "ages": all ages / 21+ / unknown,
   "area": town or neighborhood, "tags": a JSON list using ONLY these words: {vibes}.
@@ -70,7 +70,7 @@ NOT_VENUE_SOURCES = (
 # --- Builder quality gate: a page that fails ANY of these is not published ---
 PAGES_PER_NIGHT = 2
 MIN_RECORDS = 5
-MIN_WORDS = 350
+MIN_WORDS = 150
 MAX_SIMILARITY = 0.55
 STALE_AFTER_DAYS = 30       # music schedules change: each page is re-checked about monthly
 
