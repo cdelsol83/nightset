@@ -18,18 +18,16 @@ Use web search to collect {min_n}-12 venues that fit this page. For each venue r
 Never invent values; use "unknown" when a fact isn't stated.
 Return JSON: {{"description": one-sentence meta description, "records": [...]}}"""
 
-WRITE_PROMPT = """Write the body of a guide page titled "{title}" for {site}.
-Audience: someone deciding where to go for live music, often tonight. Never state or imply anything
-negative about a named venue. Use ONLY the facts in this JSON; do not add any fact not present in it:
+WRITE_PROMPT = """Write a short guide for a page titled "{title}" on {site}.
+Readers are deciding where to go for live music, often tonight, usually on a phone. Keep it brief and
+scannable. Never state or imply anything negative about a named venue. Use ONLY the facts in this
+JSON; do not add any fact not present in it:
 {records}
-Structure (Markdown): a 2-3 sentence intro answering the searcher's question directly;
-"## By night of the week" (bullets: which venues have music on which nights, from "music_nights");
-"## At a glance" (3-4 neutral bullets comparing facts: cover, setting, food, ages; never rank, rate
-or recommend venues, and never use "best", "top" or "our pick");
-"## Before you go" (practical tips grounded in the facts, and a reminder that schedules change, so
-check the venue's own page the day you go);
-"## FAQ" (3 questions as ### headings with short answers).
-Do not include a table of the venues; the site renders that from the data. 400-700 words."""
+Structure (Markdown): a 2-sentence intro; "## By night" (one short bullet per night of the week that
+has music, naming the venues); "## Good to know" (3 short bullets: cover, setting, food or ages);
+"## FAQ" (3 questions as ### headings, one-sentence answers). Never rank, rate or recommend venues,
+and never use "best", "top" or "our pick". Do not list every venue's details; the site shows them
+as cards. 180-320 words."""
 
 
 def slugify(title):

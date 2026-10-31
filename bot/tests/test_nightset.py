@@ -51,7 +51,7 @@ def test_nightly_build_publishes_guides_and_venue_data(sandbox):
     html = (sandbox / "site" / page["slug"] / "index.html").read_text()
     bid = render.biz_id(page["records"][0]["name"])
     assert f'href="../go/{bid}/"' in html and f'href="../call/{bid}/"' in html
-    assert "Music nights" in html and '"@type": "ItemList"' in html
+    assert "class=card" in html and "data-day=\"tonight\"" in html and '"@type": "ItemList"' in html
     assert all("made-up tag" not in r["facts"]["tags"] for r in page["records"])
     venues = json.loads((sandbox / "site" / "venues.json").read_text())
     assert venues and {"name", "city", "facts", "checked", "source"} <= set(venues[0])
@@ -59,7 +59,8 @@ def test_nightly_build_publishes_guides_and_venue_data(sandbox):
     sitemap = (sandbox / "site" / "sitemap.xml").read_text()
     assert "/go/" not in sitemap and "/for-venues/</loc>" in sitemap
     index = (sandbox / "site" / "index.html").read_text()
-    assert f"<h2>{page['city']}</h2>" in index
+    assert f'id="{render.biz_id(page["city"])}"' in index and "class=card" in index
+    assert f'href="go/{bid}/"' in index  # home-page cards link from the site root
 
 
 def test_unconfirmed_venues_are_dropped_before_publishing(sandbox, monkeypatch):
@@ -95,3 +96,12 @@ def test_info_pages(sandbox):
     for slug in ("about", "contact", "privacy", "for-venues"):
         assert (sandbox / "site" / slug / "index.html").exists()
     assert "mailto:hello@nightset.org?subject=Remove%20my%20venue" in (sandbox / "site" / "contact" / "index.html").read_text()
+
+
+def test_schedule_text_becomes_days():
+    assert render.days_of("Thurs-Sun 6-9pm") == ["thu", "fri", "sat", "sun"]
+    assert render.days_of("Tuesdays 7pm; Fri & Sat 8pm") == ["tue", "fri", "sat"]
+    assert render.days_of("Live music nightly") == render.DAYS
+    assert render.days_of("Sunset sessions on Saturday") == ["sat"]
+    assert render.days_of("monthly jazz") == []
+    assert render.short("dueling pianos (rock to hits, requests), jam night", 2) == ["dueling pianos", "jam night"]

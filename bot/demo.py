@@ -14,7 +14,7 @@ KINDS = ["Grill", "Tavern", "Brewing Co", "Raw Bar", "Cafe", "Social Hall", "Tik
 def answer(prompt):
     if "collect" in prompt and "venues that fit" in prompt:
         return json.dumps(research(re.search(r'Page: "(.+?)"', prompt).group(1)))
-    if "Write the body" in prompt:
+    if "Write a short guide" in prompt:
         title = re.search(r'titled "(.+?)"', prompt).group(1)
         records = json.loads(prompt.split("fact not present in it:\n", 1)[1].split("\nStructure", 1)[0])
         return body(title, records)
