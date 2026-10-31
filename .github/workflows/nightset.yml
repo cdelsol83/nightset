@@ -1,0 +1,83 @@
+name: Nightset
+
+# The schedule is off until you set the repository variable NIGHTSET_ENABLED=true (Settings > Secrets
+# and variables > Actions > Variables). Manual runs (Run workflow) work without it.
+on:
+  schedule:
+    - cron: "30 8 * * *"    # nightly build: ~3:30-4:30am US Eastern
+    - cron: "35 13 * * *"   # daily report (weekly on Mondays)
+  workflow_dispatch:
+    inputs:
+      task:
+        description: "What to run"
+        type: choice
+        options: [build, render, report, status]
+        default: build
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: nightset
+  cancel-in-progress: false
+
+env:
+  XAI_API_KEY: ${{ secrets.XAI_API_KEY }}
+  MOGUL_MODEL: ${{ vars.MOGUL_MODEL }}
+  TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+  TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+
+jobs:
+  run:
+    if: vars.NIGHTSET_ENABLED == 'true' || github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    outputs:
+      task: ${{ steps.pick.outputs.task }}
+    defaults:
+      run:
+        working-directory: bot
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - id: pick
+        run: |
+          case "${{ github.event.schedule }}" in
+            "30 8 * * *")  t=build ;;
+            "35 13 * * *") t=report ;;
+            *)             t="${{ inputs.task }}" ;;
+          esac
+          if [ "$t" = report ] && [ "$(date -u +%u)" = 1 ]; then t="report-week"; fi
+          echo "task=$t" >> "$GITHUB_OUTPUT"
+      - name: Run Nightset
+        run: |
+          case "${{ steps.pick.outputs.task }}" in
+            report-week) python nightset.py report week ;;
+            *)           python nightset.py ${{ steps.pick.outputs.task }} ;;
+          esac
+      - name: Commit state
+        run: |
+          git config user.name "nightset-bot"
+          git config user.email "nightset-bot@users.noreply.github.com"
+          mkdir -p data && git add data
+          git diff --cached --quiet && exit 0
+          git commit -m "Nightset ${{ steps.pick.outputs.task }} $(date -u +%F)"
+          for i in 1 2 3; do git pull --rebase && git push && break; sleep 5; done
+      - if: steps.pick.outputs.task == 'build' || steps.pick.outputs.task == 'render'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: bot/site
+
+  deploy:
+    needs: run
+    if: needs.run.outputs.task == 'build' || needs.run.outputs.task == 'render'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
