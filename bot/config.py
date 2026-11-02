@@ -9,7 +9,7 @@ CONTACT_EMAIL = "hello@nightset.org"
 # Google Search Console "HTML tag" verification (the content="..." value; public, not a secret)
 GOOGLE_SITE_VERIFICATION = ""
 # Cloudflare Web Analytics site token for nightset.org (public). Empty = no analytics yet.
-CLOUDFLARE_ANALYTICS_TOKEN = ""
+CLOUDFLARE_ANALYTICS_TOKEN = "ae604520d9404f88ac88e5d633929850"
 
 # City -> nearby areas the research may include on that city's pages
 CITIES = {
