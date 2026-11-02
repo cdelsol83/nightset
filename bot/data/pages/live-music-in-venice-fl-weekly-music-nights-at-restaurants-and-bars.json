@@ -1,0 +1,206 @@
+{
+  "slug": "live-music-in-venice-fl-weekly-music-nights-at-restaurants-and-bars",
+  "title": "Live music in Venice, FL: weekly music nights at restaurants and bars",
+  "city": "Venice",
+  "description": "Recurring live music nights at restaurants and bars in Venice, Nokomis, and Englewood on Florida's Gulf Coast.",
+  "records": [
+    {
+      "name": "Captain Eddie's Seafood",
+      "location": "107 E. Colonia Lane, Nokomis, FL 34275",
+      "facts": {
+        "music_nights": "Seven nights a week, 5:30pm-8:30pm",
+        "genres": "classic rock, acoustic, coastal",
+        "cover": "Free",
+        "setting": "outdoor",
+        "venue_type": "restaurant",
+        "food": "full menu",
+        "ages": "all ages",
+        "area": "Nokomis",
+        "tags": [
+          "date night",
+          "family friendly",
+          "outdoor seating",
+          "lively",
+          "dinner menu",
+          "no cover"
+        ]
+      },
+      "website": "https://www.captaineddiesseafood.com/",
+      "phone": "(941) 484-4372",
+      "source": "https://www.captaineddiesseafood.com/live-music/",
+      "checked": "2026-11-02"
+    },
+    {
+      "name": "Pop's Sunset Grill",
+      "location": "112 Circuit Road, Nokomis, FL 34275",
+      "facts": {
+        "music_nights": "Daily; times on the entertainment calendar (commonly 5pm or 6pm starts, plus weekend daytime sets)",
+        "genres": "covers, acoustic",
+        "cover": "unknown",
+        "setting": "waterfront",
+        "venue_type": "restaurant",
+        "food": "full menu",
+        "ages": "unknown",
+        "area": "Nokomis",
+        "tags": [
+          "outdoor seating",
+          "waterfront",
+          "lively",
+          "dinner menu"
+        ]
+      },
+      "website": "https://www.popssunsetgrill.com/",
+      "phone": "(941) 488-3177",
+      "source": "https://www.popssunsetgrill.com/entertainment/",
+      "checked": "2026-11-02"
+    },
+    {
+      "name": "Paradise Grill",
+      "location": "1097 N. Tamiami Trail, Nokomis, FL 34275",
+      "facts": {
+        "music_nights": "Daily, 6-9pm",
+        "genres": "classic hits",
+        "cover": "unknown",
+        "setting": "mixed",
+        "venue_type": "restaurant",
+        "food": "full menu",
+        "ages": "unknown",
+        "area": "Nokomis",
+        "tags": [
+          "outdoor seating",
+          "lively",
+          "dinner menu"
+        ]
+      },
+      "website": "https://www.paradisegrillfl.com/",
+      "phone": "(941) 786-1524",
+      "source": "https://www.paradisegrillfl.com/about",
+      "checked": "2026-11-02"
+    },
+    {
+      "name": "Nokomo's Sunset Hut",
+      "location": "690 S Tamiami Trail, Nokomis, FL 34275",
+      "facts": {
+        "music_nights": "Daily",
+        "genres": "unknown",
+        "cover": "unknown",
+        "setting": "waterfront",
+        "venue_type": "restaurant",
+        "food": "full menu",
+        "ages": "unknown",
+        "area": "Nokomis",
+        "tags": [
+          "waterfront",
+          "outdoor seating",
+          "dinner menu"
+        ]
+      },
+      "website": "https://www.nokomos.com/",
+      "phone": "(941) 488-1324",
+      "source": "https://www.nokomos.com/",
+      "checked": "2026-11-02"
+    },
+    {
+      "name": "Dockside Waterfront Grill",
+      "location": "509 North Tamiami Trail, Venice, FL 34285",
+      "facts": {
+        "music_nights": "Fri-Sat 5pm-8pm",
+        "genres": "unknown",
+        "cover": "unknown",
+        "setting": "waterfront",
+        "venue_type": "restaurant",
+        "food": "full menu",
+        "ages": "unknown",
+        "area": "Venice",
+        "tags": [
+          "waterfront",
+          "outdoor seating",
+          "dinner menu",
+          "dog friendly"
+        ]
+      },
+      "website": "https://docksidewaterfrontgrill.com/",
+      "phone": "941.218.6418",
+      "source": "https://docksidewaterfrontgrill.com/events/",
+      "checked": "2026-11-02"
+    },
+    {
+      "name": "Cafe Venice Restaurant & Bar",
+      "location": "101 W Venice Ave, Venice, FL 34285",
+      "facts": {
+        "music_nights": "Mon, Thu, Fri & Sat 7-10pm",
+        "genres": "unknown",
+        "cover": "unknown",
+        "setting": "unknown",
+        "venue_type": "restaurant",
+        "food": "full menu",
+        "ages": "all ages",
+        "area": "Venice",
+        "tags": [
+          "date night",
+          "family friendly",
+          "outdoor seating",
+          "dinner menu",
+          "dog friendly"
+        ]
+      },
+      "website": "https://www.cafevenicerestaurantandbar.com/",
+      "phone": "941-484-1855",
+      "source": "https://www.cafevenicerestaurantandbar.com/music",
+      "checked": "2026-11-02"
+    },
+    {
+      "name": "Farlow's On The Water",
+      "location": "2080 S McCall Rd, Englewood, FL 34224",
+      "facts": {
+        "music_nights": "Wed-Sun: Live Entertainment; calendar lists Wed-Thu 6-9pm, Fri-Sat 6-10pm, Sun 5-8pm",
+        "genres": "unknown",
+        "cover": "unknown",
+        "setting": "waterfront",
+        "venue_type": "restaurant",
+        "food": "full menu",
+        "ages": "all ages",
+        "area": "Englewood",
+        "tags": [
+          "waterfront",
+          "outdoor seating",
+          "family friendly",
+          "dinner menu"
+        ]
+      },
+      "website": "https://www.farlowsonthewater.com/",
+      "phone": "941.474.5343",
+      "source": "https://www.farlowsonthewater.com/events/",
+      "checked": "2026-11-02"
+    },
+    {
+      "name": "SandBar Tiki & Grille",
+      "location": "1975 Beach Rd, Englewood, FL 34223",
+      "facts": {
+        "music_nights": "Daily; calendar commonly lists 6-10pm, with some daytime sets",
+        "genres": "rock, country, blues",
+        "cover": "unknown",
+        "setting": "mixed",
+        "venue_type": "restaurant",
+        "food": "full menu",
+        "ages": "all ages",
+        "area": "Englewood",
+        "tags": [
+          "family friendly",
+          "waterfront",
+          "outdoor seating",
+          "dance floor",
+          "dinner menu"
+        ]
+      },
+      "website": "https://www.sandbartikigrille.com/",
+      "phone": "941.460.8280",
+      "source": "https://www.sandbartikigrille.com/events/",
+      "checked": "2026-11-02"
+    }
+  ],
+  "body_md": "Restaurants in Nokomis, Venice, and Englewood list weekly live music, including daily sets at several places. Schedules here were checked on November 2, 2026.\n\n## By night\n\n- **Monday:** Captain Eddie's Seafood, Pop's Sunset Grill, Paradise Grill, Nokomo's Sunset Hut, Cafe Venice Restaurant & Bar, and SandBar Tiki & Grille.\n- **Tuesday:** Captain Eddie's Seafood, Pop's Sunset Grill, Paradise Grill, Nokomo's Sunset Hut, and SandBar Tiki & Grille.\n- **Wednesday:** Captain Eddie's Seafood, Pop's Sunset Grill, Paradise Grill, Nokomo's Sunset Hut, Farlow's On The Water, and SandBar Tiki & Grille.\n- **Thursday:** Captain Eddie's Seafood, Pop's Sunset Grill, Paradise Grill, Nokomo's Sunset Hut, Cafe Venice Restaurant & Bar, Farlow's On The Water, and SandBar Tiki & Grille.\n- **Friday:** Captain Eddie's Seafood, Pop's Sunset Grill, Paradise Grill, Nokomo's Sunset Hut, Dockside Waterfront Grill, Cafe Venice Restaurant & Bar, Farlow's On The Water, and SandBar Tiki & Grille.\n- **Saturday:** Captain Eddie's Seafood, Pop's Sunset Grill, Paradise Grill, Nokomo's Sunset Hut, Dockside Waterfront Grill, Cafe Venice Restaurant & Bar, Farlow's On The Water, and SandBar Tiki & Grille.\n- **Sunday:** Captain Eddie's Seafood, Pop's Sunset Grill, Paradise Grill, Nokomo's Sunset Hut, Farlow's On The Water, and SandBar Tiki & Grille.\n\n## Good to know\n\n- **Cover:** Captain Eddie's Seafood lists free music with no cover. Other listings do not state one.\n- **Setting:** Outdoor, waterfront, and mixed settings are all listed.\n- **Food and ages:** Every restaurant lists a full menu. All ages is listed at Captain Eddie's Seafood, Cafe Venice Restaurant & Bar, Farlow's On The Water, and SandBar Tiki & Grille.\n\n## FAQ\n\n### Is there live music every night?\nYes. Five restaurants list daily music, and three list selected nights.\n\n### Is there a cover charge?\nCaptain Eddie's Seafood lists free music with no cover; the other venues do not state one.\n\n### What time does the music start?\nTimes vary and include 5:30–8:30pm, 5–8pm, 6–9pm, 7–10pm, and 6–10pm, plus some daytime sets.",
+  "citations": [],
+  "published": "2026-11-02",
+  "updated": "2026-11-02"
+}

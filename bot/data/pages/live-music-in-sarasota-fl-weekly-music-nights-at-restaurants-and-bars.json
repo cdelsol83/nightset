@@ -1,0 +1,217 @@
+{
+  "slug": "live-music-in-sarasota-fl-weekly-music-nights-at-restaurants-and-bars",
+  "title": "Live music in Sarasota, FL: weekly music nights at restaurants and bars",
+  "city": "Sarasota",
+  "description": "Weekly live music nights at restaurants and bars in Sarasota and on Siesta Key, with each recurring schedule taken from the venue's own site.",
+  "records": [
+    {
+      "name": "Sniki Tiki at Captain Curt's",
+      "location": "1200 Old Stickney Point Rd, Sarasota, FL 34242",
+      "facts": {
+        "music_nights": "1-5pm and 6-10pm nightly; Friday, Saturday, and Sunday nights have a full band; other time slots are usually a solo/duo; karaoke 6-10pm every Tuesday and Thursday",
+        "genres": "unknown",
+        "cover": "unknown",
+        "setting": "outdoor",
+        "venue_type": "bar",
+        "food": "full menu",
+        "ages": "unknown",
+        "area": "Siesta Key",
+        "tags": [
+          "family friendly",
+          "outdoor seating",
+          "dinner menu"
+        ]
+      },
+      "website": "https://www.captaincurts.com/",
+      "phone": "(941) 349-3885",
+      "source": "https://www.captaincurts.com/events-entertainment/",
+      "checked": "2026-11-02"
+    },
+    {
+      "name": "The Gator Club",
+      "location": "1490 Main Street, Sarasota, FL",
+      "facts": {
+        "music_nights": "Live music 5 days a week; DJ every Friday and Saturday night on the second floor; live music every weekend",
+        "genres": "unknown",
+        "cover": "unknown",
+        "setting": "unknown",
+        "venue_type": "bar",
+        "food": "bar food",
+        "ages": "unknown",
+        "area": "Downtown Sarasota",
+        "tags": []
+      },
+      "website": "https://www.thegatorclub.com/",
+      "phone": "",
+      "source": "https://www.thegatorclub.com/",
+      "checked": "2026-11-02"
+    },
+    {
+      "name": "Cask & Ale",
+      "location": "1548 Main St, Sarasota, FL 34236",
+      "facts": {
+        "music_nights": "Friday & Saturday, 7pm-11pm; Sunday Jazz, 12pm-4pm",
+        "genres": "jazz",
+        "cover": "unknown",
+        "setting": "mixed",
+        "venue_type": "bar",
+        "food": "full menu",
+        "ages": "unknown",
+        "area": "Downtown Sarasota",
+        "tags": [
+          "outdoor seating",
+          "dinner menu",
+          "late night",
+          "21+",
+          "lively"
+        ]
+      },
+      "website": "https://caskalesrq.com/",
+      "phone": "941.702.8740",
+      "source": "https://caskalesrq.com/",
+      "checked": "2026-11-02"
+    },
+    {
+      "name": "Michael's On East",
+      "location": "1212 S. East Avenue, Sarasota, FL 34239",
+      "facts": {
+        "music_nights": "Tuesday to Saturday, live piano 5pm until 9pm followed by lite jazz until close",
+        "genres": "piano, jazz",
+        "cover": "unknown",
+        "setting": "indoor",
+        "venue_type": "restaurant",
+        "food": "full menu",
+        "ages": "unknown",
+        "area": "Sarasota",
+        "tags": [
+          "dinner menu"
+        ]
+      },
+      "website": "https://bestfood.com/",
+      "phone": "941-366-0007",
+      "source": "https://bestfood.com/restaurant-menus/special-menus",
+      "checked": "2026-11-02"
+    },
+    {
+      "name": "Crescent Club",
+      "location": "6519 Midnight Pass Rd, Siesta Key, FL 34242",
+      "facts": {
+        "music_nights": "Live music 7 nights a week at 7pm on the covered patio",
+        "genres": "unknown",
+        "cover": "unknown",
+        "setting": "outdoor",
+        "venue_type": "bar",
+        "food": "unknown",
+        "ages": "unknown",
+        "area": "Siesta Key",
+        "tags": [
+          "dog friendly",
+          "outdoor seating",
+          "late night"
+        ]
+      },
+      "website": "https://www.crescentclubsiestakey.com/",
+      "phone": "(941) 217-6837",
+      "source": "https://www.crescentclubsiestakey.com/",
+      "checked": "2026-11-02"
+    },
+    {
+      "name": "The Parrot Patio Bar & Grill",
+      "location": "corner of Beneva and Webber, Sarasota, FL",
+      "facts": {
+        "music_nights": "Wednesday through Sunday",
+        "genres": "unknown",
+        "cover": "unknown",
+        "setting": "mixed",
+        "venue_type": "restaurant",
+        "food": "full menu",
+        "ages": "all ages",
+        "area": "Sarasota",
+        "tags": [
+          "family friendly",
+          "outdoor seating",
+          "dinner menu",
+          "lively"
+        ]
+      },
+      "website": "https://theparrots.com/",
+      "phone": "(941) 952-3352",
+      "source": "https://theparrots.com/live-music-sarasota",
+      "checked": "2026-11-02"
+    },
+    {
+      "name": "Vino Bistro",
+      "location": "1419 5th Street, Sarasota, FL 34236",
+      "facts": {
+        "music_nights": "Tuesday Night Jazz; Friday Night Live 6:30-9:30pm; Saturday Night Live 6:30-9:30pm; occasional open mic",
+        "genres": "jazz, soul, rock",
+        "cover": "Free",
+        "setting": "indoor",
+        "venue_type": "restaurant",
+        "food": "full menu",
+        "ages": "unknown",
+        "area": "Rosemary District",
+        "tags": [
+          "date night",
+          "no cover",
+          "dinner menu"
+        ]
+      },
+      "website": "https://www.vinobistrosarasota.com/",
+      "phone": "941-952-3172",
+      "source": "https://www.vinobistrosarasota.com/post/live-music-entertainment-in-sarasota-the-complete-guide",
+      "checked": "2026-11-02"
+    },
+    {
+      "name": "Gilligan's Island Bar",
+      "location": "",
+      "facts": {
+        "music_nights": "Live music daily",
+        "genres": "unknown",
+        "cover": "unknown",
+        "setting": "outdoor",
+        "venue_type": "bar",
+        "food": "full menu",
+        "ages": "unknown",
+        "area": "Siesta Key",
+        "tags": [
+          "outdoor seating",
+          "dinner menu",
+          "late night"
+        ]
+      },
+      "website": "https://www.gilligansislandbar.com/",
+      "phone": "",
+      "source": "https://www.gilligansislandbar.com/",
+      "checked": "2026-11-02"
+    },
+    {
+      "name": "Stottlemyer's Smokehouse",
+      "location": "",
+      "facts": {
+        "music_nights": "Open Mic every Tuesday at 6pm",
+        "genres": "unknown",
+        "cover": "Free",
+        "setting": "outdoor",
+        "venue_type": "restaurant",
+        "food": "full menu",
+        "ages": "all ages",
+        "area": "Sarasota",
+        "tags": [
+          "family friendly",
+          "outdoor seating",
+          "dinner menu",
+          "no cover"
+        ]
+      },
+      "website": "https://www.stottlemyerssmokehouse.com/",
+      "phone": "",
+      "source": "https://www.stottlemyerssmokehouse.com/event/tuesday-519-open-mic-at-6-pm-copy/",
+      "checked": "2026-11-02"
+    }
+  ],
+  "body_md": "Weekly live music at bars and restaurants is listed for Sarasota, Siesta Key, Downtown Sarasota, and the Rosemary District. Match a night below to tonight; cards list the details.\n\n## By night\n\n- **Monday:** Crescent Club (7pm, covered patio), Gilligan's Island Bar, and Sniki Tiki at Captain Curt's (1–5pm and 6–10pm).\n- **Tuesday:** Those three, plus Michael's On East, Vino Bistro, and Stottlemyer's Smokehouse (open mic, 6pm). Karaoke at Sniki Tiki, 6–10pm.\n- **Wednesday:** Monday’s three, plus Michael's On East and The Parrot Patio Bar & Grill.\n- **Thursday:** Same as Wednesday, plus karaoke at Sniki Tiki, 6–10pm.\n- **Friday:** Thursday’s venues, plus Cask & Ale (7–11pm), Vino Bistro (6:30–9:30pm), and The Gator Club (second-floor DJ).\n- **Saturday:** Friday’s venues. Vino Bistro is 6:30–9:30pm.\n- **Sunday:** Crescent Club, Gilligan's Island Bar, Sniki Tiki at Captain Curt's, The Parrot Patio Bar & Grill, and Cask & Ale (jazz, 12–4pm).\n\n## Good to know\n\n- **Cover:** Free at Vino Bistro and Stottlemyer's Smokehouse.\n- **Setting:** Outdoor: Sniki Tiki at Captain Curt's, Crescent Club, Gilligan's Island Bar, Stottlemyer's Smokehouse. Indoor: Michael's On East, Vino Bistro. Mixed: Cask & Ale, The Parrot Patio Bar & Grill.\n- **Food and ages:** Full menu at seven venues; bar food at The Gator Club. All ages at The Parrot Patio Bar & Grill and Stottlemyer's Smokehouse; Cask & Ale is tagged 21+.\n\n## FAQ\n\n### Who lists music every night?\nCrescent Club lists seven nights at 7pm, Gilligan's Island Bar lists daily music, and Sniki Tiki at Captain Curt's lists 1–5pm and 6–10pm nightly, with a full band on Friday, Saturday, and Sunday nights and usually a solo or duo in other slots.\n\n### Where is jazz listed?\nCask & Ale lists Sunday Jazz, 12–4pm; Michael's On East lists piano from 5–9pm, then lite jazz until close, Tuesday to Saturday; Vino Bistro lists Tuesday Night Jazz, plus soul, rock, and an occasional open mic.\n\n### What does The Gator Club list?\nLive music five days a week and every weekend, with a DJ Friday and Saturday night on the second floor.",
+  "citations": [],
+  "published": "2026-11-02",
+  "updated": "2026-11-02"
+}
