@@ -1,0 +1,243 @@
+{
+  "slug": "live-music-in-fort-myers-fl-weekly-music-nights-at-restaurants-and-bars",
+  "title": "Live music in Fort Myers, FL: weekly music nights at restaurants and bars",
+  "city": "Fort Myers",
+  "description": "Recurring live music nights at restaurants, bars, and breweries in Fort Myers, Fort Myers Beach, and Estero.",
+  "records": [
+    {
+      "name": "GatorBites Tail & Ale",
+      "location": "20351 Summerlin Rd, Ste #120, Fort Myers, FL 33908",
+      "facts": {
+        "music_nights": "Mon 5:00pm-8:00pm; Tue 5:00pm-8:00pm; Thu 5:00pm-8:00pm; Fri 5:00-8:00pm",
+        "genres": "unknown",
+        "cover": "unknown",
+        "setting": "unknown",
+        "venue_type": "bar",
+        "food": "bar food",
+        "ages": "unknown",
+        "area": "Fort Myers",
+        "tags": [
+          "dinner menu",
+          "late night"
+        ]
+      },
+      "website": "https://www.gatorbitesfortmyers.com/",
+      "phone": "(239) 267-1317",
+      "source": "https://www.gatorbitesfortmyers.com/entertainment",
+      "checked": "2026-11-03"
+    },
+    {
+      "name": "Buckingham Blues Bar",
+      "location": "5641 Buckingham Rd, Fort Myers, FL 33905",
+      "facts": {
+        "music_nights": "Every Sunday afternoon 3-6pm; every Wednesday evening 8-11pm",
+        "genres": "blues",
+        "cover": "Free",
+        "setting": "mixed",
+        "venue_type": "bar",
+        "food": "unknown",
+        "ages": "unknown",
+        "area": "Buckingham",
+        "tags": [
+          "no cover",
+          "listening room"
+        ]
+      },
+      "website": "https://www.buckinghambar.com/",
+      "phone": "(239) 693-7111",
+      "source": "https://www.buckinghambar.com/all-events",
+      "checked": "2026-11-03"
+    },
+    {
+      "name": "Lighthouse Waterfront Restaurant",
+      "location": "Just before the Sanibel Causeway next to Port Sanibel Marina, Fort Myers",
+      "facts": {
+        "music_nights": "Live music every day; every afternoon and evening",
+        "genres": "unknown",
+        "cover": "unknown",
+        "setting": "waterfront",
+        "venue_type": "restaurant",
+        "food": "full menu",
+        "ages": "unknown",
+        "area": "Fort Myers",
+        "tags": [
+          "waterfront",
+          "outdoor seating",
+          "dinner menu",
+          "date night"
+        ]
+      },
+      "website": "https://lighthousewaterfrontrestaurant.com/",
+      "phone": "(239) 489-0770",
+      "source": "https://lighthousewaterfrontrestaurant.com/",
+      "checked": "2026-11-03"
+    },
+    {
+      "name": "Lah De Dah Beach Bar & Grill",
+      "location": "1170 Estero Boulevard, Fort Myers Beach, FL 33931",
+      "facts": {
+        "music_nights": "Mon & Sun 5-8pm; Fri & Sat 7-10pm",
+        "genres": "unknown",
+        "cover": "unknown",
+        "setting": "waterfront",
+        "venue_type": "bar",
+        "food": "bar food",
+        "ages": "unknown",
+        "area": "Fort Myers Beach",
+        "tags": [
+          "waterfront",
+          "family friendly",
+          "lively",
+          "dinner menu"
+        ]
+      },
+      "website": "https://www.margaritavilleresorts.com/margaritaville-beach-resort-fort-myers-beach/eat-drink/lah-de-dah-beach-bar-grill",
+      "phone": "(239) 899-4095",
+      "source": "https://www.margaritavilleresorts.com/margaritaville-beach-resort-fort-myers-beach/eat-drink/lah-de-dah-beach-bar-grill",
+      "checked": "2026-11-03"
+    },
+    {
+      "name": "License to Chill Bar & Grill",
+      "location": "Fort Myers Beach, FL",
+      "facts": {
+        "music_nights": "Mon, Tue, Thu, Sun 6-9pm; Fri & Sat live band 7-10pm",
+        "genres": "acoustic, country",
+        "cover": "unknown",
+        "setting": "waterfront",
+        "venue_type": "restaurant",
+        "food": "full menu",
+        "ages": "unknown",
+        "area": "Fort Myers Beach",
+        "tags": [
+          "waterfront",
+          "outdoor seating",
+          "dinner menu",
+          "lively"
+        ]
+      },
+      "website": "https://www.margaritavilleresorts.com/margaritaville-beach-resort-fort-myers-beach/eat-drink/license-to-chill-bar-grill",
+      "phone": "",
+      "source": "https://www.margaritavilleresorts.com/margaritaville-beach-resort-fort-myers-beach/things-to-do/entertainment-schedule",
+      "checked": "2026-11-03"
+    },
+    {
+      "name": "Matanzas on the Bay",
+      "location": "416 Crescent Street, Fort Myers Beach, FL 33931",
+      "facts": {
+        "music_nights": "Live music 7 days a week; Sun reggae and steel drums 10am-10pm",
+        "genres": "reggae",
+        "cover": "unknown",
+        "setting": "waterfront",
+        "venue_type": "restaurant",
+        "food": "full menu",
+        "ages": "unknown",
+        "area": "Fort Myers Beach",
+        "tags": [
+          "waterfront",
+          "dinner menu",
+          "conversation friendly"
+        ]
+      },
+      "website": "https://matanzasonthebay.com/",
+      "phone": "(239) 463-3838",
+      "source": "https://matanzasonthebay.com/contact-us/",
+      "checked": "2026-11-03"
+    },
+    {
+      "name": "J. Vito's Supper Club and Lounge",
+      "location": "20041 S Tamiami Trail #19, Estero, FL 33928",
+      "facts": {
+        "music_nights": "Live music every night, starting at 7:00 p.m.",
+        "genres": "jazz, Motown, classic rock",
+        "cover": "unknown",
+        "setting": "unknown",
+        "venue_type": "restaurant",
+        "food": "full menu",
+        "ages": "unknown",
+        "area": "Estero",
+        "tags": [
+          "date night",
+          "dinner menu"
+        ]
+      },
+      "website": "https://jvitos.com/",
+      "phone": "239-948-9466",
+      "source": "https://jvitos.com/",
+      "checked": "2026-11-03"
+    },
+    {
+      "name": "Fort Myers Brewing Company",
+      "location": "12811 Commerce Lakes Dr, Suite 28, Fort Myers, FL",
+      "facts": {
+        "music_nights": "Every Thursday Food Truck Rally with live music, 2-10 p.m.",
+        "genres": "rock, country, reggae",
+        "cover": "Free",
+        "setting": "outdoor",
+        "venue_type": "brewery",
+        "food": "unknown",
+        "ages": "unknown",
+        "area": "Fort Myers",
+        "tags": [
+          "outdoor seating",
+          "no cover"
+        ]
+      },
+      "website": "https://www.fmbrew.com/",
+      "phone": "(239) 313-6576",
+      "source": "https://www.fmbrew.com/events/category/weekly/page/5/",
+      "checked": "2026-11-03"
+    },
+    {
+      "name": "Bonita Fish Company",
+      "location": "Under the Matanzas Pass Bridge on Estero Bay, Fort Myers Beach",
+      "facts": {
+        "music_nights": "Live music daily; every day of the week",
+        "genres": "acoustic",
+        "cover": "Free",
+        "setting": "waterfront",
+        "venue_type": "restaurant",
+        "food": "full menu",
+        "ages": "unknown",
+        "area": "Fort Myers Beach",
+        "tags": [
+          "family friendly",
+          "waterfront",
+          "outdoor seating",
+          "no cover",
+          "dinner menu"
+        ]
+      },
+      "website": "https://bonitafishco.com/",
+      "phone": "",
+      "source": "https://bonitafishco.com/live-music/",
+      "checked": "2026-11-03"
+    },
+    {
+      "name": "Doc Ford's Rum Bar & Grille",
+      "location": "708 Fishermans Wharf, Ft Myers Beach, FL 33931",
+      "facts": {
+        "music_nights": "Live music most nights",
+        "genres": "unknown",
+        "cover": "unknown",
+        "setting": "waterfront",
+        "venue_type": "restaurant",
+        "food": "full menu",
+        "ages": "unknown",
+        "area": "Fort Myers Beach",
+        "tags": [
+          "waterfront",
+          "outdoor seating",
+          "dinner menu"
+        ]
+      },
+      "website": "https://docfords.com/",
+      "phone": "(239) 765-9660",
+      "source": "https://docfords.com/doc-fords-rum-bar-grille-supports-captains-for-clean-water-with-5000-donation/",
+      "checked": "2026-11-03"
+    }
+  ],
+  "body_md": "Live music nights are listed at bars and restaurants in Fort Myers, Fort Myers Beach, Buckingham, and Estero, and at Fort Myers Brewing Company. Daily four (every day): Lighthouse Waterfront Restaurant (afternoons and evenings), Matanzas on the Bay, J. Vito's Supper Club and Lounge from 7pm, and Bonita Fish Company; Doc Ford's Rum Bar & Grille lists most nights.\n\n## By night\n\n- **Sunday:** Buckingham Blues Bar 3–6pm; Lah De Dah Beach Bar & Grill 5–8pm; License to Chill Bar & Grill 6–9pm; Matanzas on the Bay reggae and steel drums 10am–10pm; daily four.\n- **Monday:** GatorBites Tail & Ale 5–8pm; Lah De Dah 5–8pm; License to Chill 6–9pm; daily four.\n- **Tuesday:** GatorBites Tail & Ale 5–8pm; License to Chill 6–9pm; daily four.\n- **Wednesday:** Buckingham Blues Bar 8–11pm; daily four.\n- **Thursday:** Fort Myers Brewing Company Food Truck Rally with live music 2–10pm; GatorBites Tail & Ale 5–8pm; License to Chill 6–9pm; daily four.\n- **Friday:** GatorBites Tail & Ale 5–8pm; Lah De Dah 7–10pm; License to Chill live band 7–10pm; daily four.\n- **Saturday:** Lah De Dah 7–10pm; License to Chill live band 7–10pm; daily four.\n\n## Good to know\n\n- **Cover:** Free, no-cover listings at Buckingham Blues Bar, Fort Myers Brewing Company, and Bonita Fish Company.\n- **Setting:** Waterfront at Lighthouse, Lah De Dah, License to Chill, Matanzas, Bonita Fish Company, and Doc Ford's; outdoor at Fort Myers Brewing Company; mixed listening room at Buckingham Blues Bar.\n- **Food:** Full menu at Lighthouse, License to Chill, Matanzas, J. Vito's, Bonita Fish Company, and Doc Ford's; bar food at GatorBites and Lah De Dah; Thursday food trucks at Fort Myers Brewing Company.\n\n## FAQ\n\n### Is live music listed every day?\nYes—the daily four list every day, and Doc Ford's lists most nights.\n\n### Which venues list free music?\nBuckingham Blues Bar, Fort Myers Brewing Company, and Bonita Fish Company list no cover.\n\n### What genres are listed?\nBlues, acoustic, country, reggae, rock, jazz, Motown, and classic rock.",
+  "citations": [],
+  "published": "2026-11-03",
+  "updated": "2026-11-03"
+}

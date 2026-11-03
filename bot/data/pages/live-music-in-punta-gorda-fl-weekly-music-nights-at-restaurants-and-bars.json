@@ -1,0 +1,186 @@
+{
+  "slug": "live-music-in-punta-gorda-fl-weekly-music-nights-at-restaurants-and-bars",
+  "title": "Live music in Punta Gorda, FL: weekly music nights at restaurants and bars",
+  "city": "Punta Gorda",
+  "description": "Weekly live-music nights at restaurants and bars in Punta Gorda and Port Charlotte, with recurring schedules confirmed on each venue’s own site.",
+  "records": [
+    {
+      "name": "Riviera Bar & Grill",
+      "location": "5500 Deltona Dr, Punta Gorda, FL 33950",
+      "facts": {
+        "music_nights": "Thursday–Sunday in season; Friday–Sunday outside season; posted performances start at 2:00 PM",
+        "genres": "unknown",
+        "cover": "unknown",
+        "setting": "waterfront",
+        "venue_type": "restaurant",
+        "food": "full menu",
+        "ages": "unknown",
+        "area": "Punta Gorda",
+        "tags": [
+          "waterfront",
+          "outdoor seating",
+          "dinner menu"
+        ]
+      },
+      "website": "https://rivierabarandgrillpuntagorda.com/",
+      "phone": "(941) 639-2633",
+      "source": "https://rivierabarandgrillpuntagorda.com/live-entertainment/",
+      "checked": "2026-11-03"
+    },
+    {
+      "name": "Ortigia Cucina & Bar",
+      "location": "212 Marion Ave, Punta Gorda, FL 33950",
+      "facts": {
+        "music_nights": "Page states Thursday through Sunday; the same calendar also lists Tuesday and Wednesday. Recent listings: Tue–Thu 5pm–8pm, Fri 6pm–9pm, Sat 6:30pm–9:30pm or 7pm–10pm, Sun about 4pm–7:30pm",
+        "genres": "unknown",
+        "cover": "unknown",
+        "setting": "mixed",
+        "venue_type": "restaurant",
+        "food": "full menu",
+        "ages": "unknown",
+        "area": "downtown Punta Gorda",
+        "tags": [
+          "outdoor seating",
+          "dinner menu"
+        ]
+      },
+      "website": "https://www.ortigiacucina.com/",
+      "phone": "",
+      "source": "https://www.ortigiacucina.com/entertainment/",
+      "checked": "2026-11-03"
+    },
+    {
+      "name": "Carmelo's Italian Ristorante",
+      "location": "321 W. Retta Esplanade, Punta Gorda, FL 33950",
+      "facts": {
+        "music_nights": "Wednesday through Saturday in the Pavilion, weather permitting",
+        "genres": "unknown",
+        "cover": "unknown",
+        "setting": "outdoor",
+        "venue_type": "restaurant",
+        "food": "full menu",
+        "ages": "unknown",
+        "area": "Punta Gorda",
+        "tags": [
+          "outdoor seating",
+          "dinner menu"
+        ]
+      },
+      "website": "https://www.carmelosristorante.com/",
+      "phone": "(941) 621-4091",
+      "source": "https://www.carmelosristorante.com/services/live-music/",
+      "checked": "2026-11-03"
+    },
+    {
+      "name": "Shorty's Place",
+      "location": "306 W Marion Ave, Punta Gorda, FL 33950",
+      "facts": {
+        "music_nights": "DJ Denny Prime Saturday night 8 to midnight; Denny Prime karaoke Friday night 7–11 and Sunday 1–5; Thomas Wayne Pruitt Wednesday night 7–11 and Saturday 1–5; Gator Sounds DJ Entertainment Sunday nights 7–11",
+        "genres": "DJ, karaoke",
+        "cover": "unknown",
+        "setting": "unknown",
+        "venue_type": "bar",
+        "food": "bar food",
+        "ages": "unknown",
+        "area": "Punta Gorda",
+        "tags": [
+          "late night"
+        ]
+      },
+      "website": "https://shortys-place.com/",
+      "phone": "(941) 639-2337",
+      "source": "https://shortys-place.com/",
+      "checked": "2026-11-03"
+    },
+    {
+      "name": "The Grill At 1951",
+      "location": "1951 Tamiami Trail, Port Charlotte, FL",
+      "facts": {
+        "music_nights": "Events page: Monday–Saturday, live music 5:30–8:30pm; a menu note says open Tuesday–Saturday during Fall 2026",
+        "genres": "jazz",
+        "cover": "unknown",
+        "setting": "indoor",
+        "venue_type": "restaurant",
+        "food": "full menu",
+        "ages": "unknown",
+        "area": "Port Charlotte",
+        "tags": [
+          "dinner menu"
+        ]
+      },
+      "website": "https://thegrillat1951.com/",
+      "phone": "941-255-0994",
+      "source": "https://thegrillat1951.com/events/",
+      "checked": "2026-11-03"
+    },
+    {
+      "name": "Gatorz Bar & Grill",
+      "location": "3816 S Tamiami Trail, Port Charlotte, FL 33952",
+      "facts": {
+        "music_nights": "Local bands Friday and Saturday; karaoke Wednesdays",
+        "genres": "karaoke",
+        "cover": "unknown",
+        "setting": "unknown",
+        "venue_type": "bar",
+        "food": "full menu",
+        "ages": "unknown",
+        "area": "Port Charlotte",
+        "tags": []
+      },
+      "website": "https://gatorzbarandgrill941.com/",
+      "phone": "(941) 625-5000",
+      "source": "https://gatorzbarandgrill941.com/",
+      "checked": "2026-11-03"
+    },
+    {
+      "name": "All-Star Sports Grill",
+      "location": "Port Charlotte, FL",
+      "facts": {
+        "music_nights": "Tues–Sun, 5pm–9pm on the Tiki-Bar; Fri–Sat, 9pm–12am in the Sports Lounge",
+        "genres": "unknown",
+        "cover": "unknown",
+        "setting": "mixed",
+        "venue_type": "bar",
+        "food": "full menu",
+        "ages": "unknown",
+        "area": "Port Charlotte",
+        "tags": [
+          "late night",
+          "lively",
+          "dinner menu"
+        ]
+      },
+      "website": "https://www.allstarsportsgrill.com/",
+      "phone": "941-743-4140",
+      "source": "https://www.allstarsportsgrill.com/",
+      "checked": "2026-11-03"
+    },
+    {
+      "name": "The Twisted Fork",
+      "location": "2208 El Jobean Road, Port Charlotte, FL",
+      "facts": {
+        "music_nights": "Honky-tonk Thursday, weekly Thursday 6:00 pm–9:30 pm at Bert's Back Porch; events calendar lists additional live shows",
+        "genres": "country, rock",
+        "cover": "unknown",
+        "setting": "mixed",
+        "venue_type": "restaurant",
+        "food": "full menu",
+        "ages": "unknown",
+        "area": "Port Charlotte",
+        "tags": [
+          "outdoor seating",
+          "dinner menu",
+          "lively"
+        ]
+      },
+      "website": "https://www.twistedfork.net/",
+      "phone": "",
+      "source": "https://www.twistedfork.net/",
+      "checked": "2026-11-03"
+    }
+  ],
+  "body_md": "Restaurants and bars in Punta Gorda and Port Charlotte list live music most nights. Sites were checked on November 3, 2026.\n\n## By night\n\n- **Monday:** The Grill At 1951.\n- **Tuesday:** Ortigia Cucina & Bar, The Grill At 1951, All-Star Sports Grill.\n- **Wednesday:** Ortigia Cucina & Bar, Carmelo's Italian Ristorante, Shorty's Place, The Grill At 1951, Gatorz Bar & Grill, All-Star Sports Grill.\n- **Thursday:** Riviera Bar & Grill (in season), Ortigia Cucina & Bar, Carmelo's Italian Ristorante, The Grill At 1951, All-Star Sports Grill, The Twisted Fork.\n- **Friday:** Riviera Bar & Grill, Ortigia Cucina & Bar, Carmelo's Italian Ristorante, Shorty's Place, The Grill At 1951, Gatorz Bar & Grill, All-Star Sports Grill.\n- **Saturday:** Riviera Bar & Grill, Ortigia Cucina & Bar, Carmelo's Italian Ristorante, Shorty's Place, The Grill At 1951, Gatorz Bar & Grill, All-Star Sports Grill.\n- **Sunday:** Riviera Bar & Grill, Ortigia Cucina & Bar, Shorty's Place, All-Star Sports Grill.\n\n## Good to know\n\n- **Cover:** Not listed in sources checked.\n- **Setting:** Waterfront at Riviera Bar & Grill; outdoor Pavilion at Carmelo's (weather permitting); indoor at The Grill At 1951; mixed at Ortigia Cucina & Bar, All-Star Sports Grill, and The Twisted Fork.\n- **Food:** Full menu at most venues; bar food at Shorty's Place.\n\n## FAQ\n\n### What time does music start?\nRiviera Bar & Grill lists 2:00 PM starts, Ortigia listings span about 4pm to 10pm, The Grill At 1951 lists 5:30–8:30pm, and Shorty's Place and All-Star Sports Grill list sets until midnight.\n\n### How are days listed?\nRiviera Bar & Grill lists Thursday–Sunday in season and Friday–Sunday outside season; Ortigia states Thursday–Sunday and also lists Tuesday and Wednesday; The Grill At 1951 events page lists Monday–Saturday, and a Fall 2026 menu note says open Tuesday–Saturday.\n\n### What styles are listed?\nThe Grill At 1951 lists jazz, The Twisted Fork lists country and rock, Shorty's Place lists DJ and karaoke, and Gatorz Bar & Grill lists karaoke and local bands.",
+  "citations": [],
+  "published": "2026-11-03",
+  "updated": "2026-11-03"
+}
