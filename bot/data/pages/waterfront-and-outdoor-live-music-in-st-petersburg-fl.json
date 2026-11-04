@@ -1,0 +1,224 @@
+{
+  "slug": "waterfront-and-outdoor-live-music-in-st-petersburg-fl",
+  "title": "Waterfront and outdoor live music in St. Petersburg, FL",
+  "city": "St. Petersburg",
+  "description": "Recurring live music at waterfront bars, beach decks, breweries, and lounges in St. Petersburg, St. Pete Beach, Treasure Island, and Gulfport.",
+  "records": [
+    {
+      "name": "Jimmy B's Beach Bar",
+      "location": "6200 Gulf Blvd, St Pete Beach, FL 33706",
+      "facts": {
+        "music_nights": "Daily live music, 365 days a year; open-air stage overlooking the Gulf and a late-night indoor stage",
+        "genres": "unknown",
+        "cover": "unknown",
+        "setting": "mixed",
+        "venue_type": "bar",
+        "food": "full menu",
+        "ages": "unknown",
+        "area": "St. Pete Beach",
+        "tags": [
+          "waterfront",
+          "outdoor seating",
+          "dog friendly",
+          "dinner menu",
+          "late night",
+          "lively"
+        ]
+      },
+      "website": "https://www.jimmybsbeachbar.com/",
+      "phone": "(727) 367-1902",
+      "source": "https://www.jimmybsbeachbar.com/",
+      "checked": "2026-11-04"
+    },
+    {
+      "name": "Ka'Tiki",
+      "location": "8803 West Gulf Blvd., Treasure Island, FL 33706",
+      "facts": {
+        "music_nights": "Live music playing 7 days a week",
+        "genres": "rock, blues, reggae",
+        "cover": "unknown",
+        "setting": "outdoor",
+        "venue_type": "bar",
+        "food": "bar food",
+        "ages": "21+",
+        "area": "Treasure Island",
+        "tags": [
+          "waterfront",
+          "outdoor seating",
+          "21+"
+        ]
+      },
+      "website": "https://www.katikisunsetbeach.com/",
+      "phone": "727-360-2272",
+      "source": "https://www.katikisunsetbeach.com/",
+      "checked": "2026-11-04"
+    },
+    {
+      "name": "Ruby's Elixir",
+      "location": "15 3rd St N, St. Petersburg, FL 33701",
+      "facts": {
+        "music_nights": "Live music 7 days a week; shows typically begin at 6:30pm, with late-night sets on weekends; early set 6:30pm-9:30pm and main set 10:00pm-2:00am",
+        "genres": "jazz, classic rock, blues",
+        "cover": "unknown",
+        "setting": "indoor",
+        "venue_type": "bar",
+        "food": "unknown",
+        "ages": "unknown",
+        "area": "Downtown St. Petersburg",
+        "tags": [
+          "conversation friendly",
+          "late night"
+        ]
+      },
+      "website": "https://rubyselixir.com/",
+      "phone": "(727) 898-2442",
+      "source": "https://rubyselixir.com/",
+      "checked": "2026-11-04"
+    },
+    {
+      "name": "Cage Brewing",
+      "location": "2001 1st Ave S, St. Petersburg, FL 33712",
+      "facts": {
+        "music_nights": "Live full-band music five nights a week",
+        "genres": "unknown",
+        "cover": "unknown",
+        "setting": "mixed",
+        "venue_type": "brewery",
+        "food": "full menu",
+        "ages": "all ages",
+        "area": "Grand Central District, St. Petersburg",
+        "tags": [
+          "family friendly",
+          "dog friendly",
+          "outdoor seating"
+        ]
+      },
+      "website": "https://cagebrewing.com/",
+      "phone": "(727) 201-4278",
+      "source": "https://cagebrewing.com/faq",
+      "checked": "2026-11-04"
+    },
+    {
+      "name": "Bongos Beach Bar & Grille",
+      "location": "",
+      "facts": {
+        "music_nights": "Thursday through Sunday, 2pm-6pm",
+        "genres": "top 40, country, reggae",
+        "cover": "unknown",
+        "setting": "waterfront",
+        "venue_type": "bar",
+        "food": "full menu",
+        "ages": "unknown",
+        "area": "St. Pete Beach",
+        "tags": [
+          "waterfront",
+          "outdoor seating"
+        ]
+      },
+      "website": "https://www.bongosbeachbar.com/",
+      "phone": "",
+      "source": "https://www.bongosbeachbar.com/faq/",
+      "checked": "2026-11-04"
+    },
+    {
+      "name": "The Drunken Clam",
+      "location": "46 46th Avenue, St. Pete Beach, Florida, 33706",
+      "facts": {
+        "music_nights": "Tuesday through Saturday nights, 7pm-11pm",
+        "genres": "rock, blues, reggae",
+        "cover": "unknown",
+        "setting": "mixed",
+        "venue_type": "bar",
+        "food": "full menu",
+        "ages": "unknown",
+        "area": "St. Pete Beach",
+        "tags": [
+          "outdoor seating",
+          "dinner menu"
+        ]
+      },
+      "website": "https://www.drunkenclambar.com/",
+      "phone": "727-360-1800",
+      "source": "https://www.drunkenclambar.com/index.php",
+      "checked": "2026-11-04"
+    },
+    {
+      "name": "Ricky T's Bar & Grille",
+      "location": "10601 Gulf Boulevard, Treasure Island, FL 33706",
+      "facts": {
+        "music_nights": "Live entertainment seven nights a week; Front Patio Mon-Sun starting at 4:30pm; Back Bar Mon-Sun starting at 7:30pm",
+        "genres": "unknown",
+        "cover": "unknown",
+        "setting": "mixed",
+        "venue_type": "bar",
+        "food": "full menu",
+        "ages": "unknown",
+        "area": "Treasure Island",
+        "tags": [
+          "outdoor seating",
+          "family friendly",
+          "dinner menu",
+          "lively",
+          "late night"
+        ]
+      },
+      "website": "https://rickytsbarandgrille.com/",
+      "phone": "727-363-7425",
+      "source": "https://rickytsbarandgrille.com/entertainment/",
+      "checked": "2026-11-04"
+    },
+    {
+      "name": "O'Maddy's Bar and Grille",
+      "location": "5405 Shore Blvd, Gulfport, FL 33707",
+      "facts": {
+        "music_nights": "Live music everyday",
+        "genres": "unknown",
+        "cover": "unknown",
+        "setting": "waterfront",
+        "venue_type": "restaurant",
+        "food": "full menu",
+        "ages": "unknown",
+        "area": "Gulfport",
+        "tags": [
+          "waterfront",
+          "outdoor seating",
+          "dinner menu",
+          "dog friendly",
+          "lively"
+        ]
+      },
+      "website": "https://www.omaddys.com/",
+      "phone": "727-323-8643",
+      "source": "https://www.omaddys.com/",
+      "checked": "2026-11-04"
+    },
+    {
+      "name": "Sloppy Joe's on the Beach",
+      "location": "10650 Gulf Blvd, Treasure Island, FL",
+      "facts": {
+        "music_nights": "Live music weekly on our deck",
+        "genres": "acoustic",
+        "cover": "unknown",
+        "setting": "mixed",
+        "venue_type": "restaurant",
+        "food": "full menu",
+        "ages": "unknown",
+        "area": "Treasure Island",
+        "tags": [
+          "waterfront",
+          "outdoor seating",
+          "dog friendly",
+          "dinner menu"
+        ]
+      },
+      "website": "https://www.sloppyjoesonthebeach.com/",
+      "phone": "(727) 367-1600",
+      "source": "https://www.sloppyjoesonthebeach.com/",
+      "checked": "2026-11-04"
+    }
+  ],
+  "body_md": "Bars, restaurants, and a brewery in St. Pete Beach, Treasure Island, Gulfport, and St. Petersburg post live music or entertainment, including waterfront and outdoor settings. Some post music every day, and others on part of the week.\n\n## By night\n\n- **Monday:** Jimmy B's, Ka'Tiki, Ruby's Elixir, O'Maddy's, and Ricky T's.\n- **Tuesday:** Jimmy B's, Ka'Tiki, Ruby's Elixir, O'Maddy's, Ricky T's, and The Drunken Clam (7pm–11pm).\n- **Wednesday:** Jimmy B's, Ka'Tiki, Ruby's Elixir, O'Maddy's, Ricky T's, and The Drunken Clam (7pm–11pm).\n- **Thursday:** Jimmy B's, Ka'Tiki, Ruby's Elixir, O'Maddy's, Ricky T's, The Drunken Clam (7pm–11pm), and Bongos (2pm–6pm).\n- **Friday:** Jimmy B's, Ka'Tiki, Ruby's Elixir, O'Maddy's, Ricky T's, The Drunken Clam (7pm–11pm), and Bongos (2pm–6pm).\n- **Saturday:** Jimmy B's, Ka'Tiki, Ruby's Elixir, O'Maddy's, Ricky T's, The Drunken Clam (7pm–11pm), and Bongos (2pm–6pm).\n- **Sunday:** Jimmy B's, Ka'Tiki, Ruby's Elixir, O'Maddy's, Ricky T's, and Bongos (2pm–6pm).\n\n## Good to know\n\n- **Cover:** A cover charge is not listed.\n- **Setting:** Ka'Tiki is outdoor and waterfront; Bongos and O'Maddy's are waterfront; Jimmy B's is mixed, with an open air Gulf stage and a late night indoor stage; Sloppy Joe's is mixed and waterfront; Cage Brewing, The Drunken Clam, and Ricky T's are mixed with outdoor seating; Ruby's Elixir is indoor.\n- **Ages:** Ka'Tiki is 21+; Cage Brewing is all ages and family friendly; Ricky T's is family friendly.\n\n## FAQ\n\n### Which venues list music every day?\nJimmy B's lists live music 365 days a year; Ka'Tiki, Ruby's Elixir, and O'Maddy's list it every day; Ricky T's lists live entertainment seven nights a week.\n\n### What times are posted?\nRicky T's front patio starts at 4:30pm and the back bar at 7:30pm, and Ruby's Elixir lists an early set 6:30pm–9:30pm and a main set 10:00pm–2:00am, with late night weekend sets.\n\n### What do Cage Brewing and Sloppy Joe's list?\nCage Brewing lists live full band music five nights a week, and Sloppy Joe's lists acoustic music weekly on the deck.",
+  "citations": [],
+  "published": "2026-11-04",
+  "updated": "2026-11-04"
+}

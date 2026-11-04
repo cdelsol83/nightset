@@ -1,0 +1,227 @@
+{
+  "slug": "waterfront-and-outdoor-live-music-in-bradenton-fl",
+  "title": "Waterfront and outdoor live music in Bradenton, FL",
+  "city": "Bradenton",
+  "description": "Waterfront decks, island patios, and outdoor stages around Bradenton, Cortez, Anna Maria Island, and Lakewood Ranch with live music on a weekly or nightly schedule.",
+  "records": [
+    {
+      "name": "Swordfish Grill & Tiki Bar",
+      "location": "4628 119th St West, Cortez, FL 34215",
+      "facts": {
+        "music_nights": "7 nights a week 5:00 pm–8:00 pm; Sat & Sun lunch 12:00 pm–4:00 pm",
+        "genres": "unknown",
+        "cover": "unknown",
+        "setting": "waterfront",
+        "venue_type": "restaurant",
+        "food": "full menu",
+        "ages": "unknown",
+        "area": "Cortez",
+        "tags": [
+          "waterfront",
+          "outdoor seating",
+          "dinner menu",
+          "family friendly"
+        ]
+      },
+      "website": "https://www.swordfishgrillcortez.com/",
+      "phone": "941-798-2035",
+      "source": "https://www.swordfishgrillcortez.com/news-events/",
+      "checked": "2026-11-04"
+    },
+    {
+      "name": "Harry's Grill",
+      "location": "9903 Gulf Drive, Anna Maria, FL 34216",
+      "facts": {
+        "music_nights": "Mon 6pm–8:30pm; Tue 6pm–8:30pm; Thu–Sat 6pm–8:30pm; Sun 6pm–8:30pm",
+        "genres": "blues, classic covers",
+        "cover": "unknown",
+        "setting": "mixed",
+        "venue_type": "restaurant",
+        "food": "full menu",
+        "ages": "all ages",
+        "area": "Anna Maria",
+        "tags": [
+          "family friendly",
+          "outdoor seating",
+          "dog friendly",
+          "dinner menu",
+          "date night"
+        ]
+      },
+      "website": "https://www.harrysgrillami.com",
+      "phone": "941-567-5999",
+      "source": "https://www.harrysgrillami.com",
+      "checked": "2026-11-04"
+    },
+    {
+      "name": "The Ugly Grouper",
+      "location": "5704 Marina Dr., Holmes Beach, FL 34217",
+      "facts": {
+        "music_nights": "live music daily",
+        "genres": "beach covers, originals",
+        "cover": "unknown",
+        "setting": "outdoor",
+        "venue_type": "restaurant",
+        "food": "full menu",
+        "ages": "all ages",
+        "area": "Holmes Beach",
+        "tags": [
+          "family friendly",
+          "outdoor seating",
+          "dinner menu"
+        ]
+      },
+      "website": "https://www.theuglygrouper.com",
+      "phone": "",
+      "source": "https://www.theuglygrouper.com",
+      "checked": "2026-11-04"
+    },
+    {
+      "name": "Freckled Fin Irish Pub",
+      "location": "5337 Gulf Drive North, Holmes Beach, FL 34217",
+      "facts": {
+        "music_nights": "Live music most nights; Karaoke every Monday 7:30–11:30pm",
+        "genres": "rock, reggae",
+        "cover": "unknown",
+        "setting": "mixed",
+        "venue_type": "pub",
+        "food": "full menu",
+        "ages": "all ages",
+        "area": "Holmes Beach",
+        "tags": [
+          "family friendly",
+          "dog friendly",
+          "outdoor seating",
+          "dinner menu",
+          "late night",
+          "lively"
+        ]
+      },
+      "website": "https://www.freckledfin.com/",
+      "phone": "941.251.3930",
+      "source": "https://www.freckledfin.com/live-music/",
+      "checked": "2026-11-04"
+    },
+    {
+      "name": "Drift-In AMI",
+      "location": "120 Bridge St., Bradenton Beach, FL 34217",
+      "facts": {
+        "music_nights": "almost every night",
+        "genres": "rock, blues",
+        "cover": "unknown",
+        "setting": "mixed",
+        "venue_type": "bar",
+        "food": "unknown",
+        "ages": "unknown",
+        "area": "Bradenton Beach",
+        "tags": [
+          "late night",
+          "lively",
+          "outdoor seating"
+        ]
+      },
+      "website": "https://driftinami.com/",
+      "phone": "",
+      "source": "https://driftinami.com/events",
+      "checked": "2026-11-04"
+    },
+    {
+      "name": "3 Keys Brewing",
+      "location": "2505 Manatee Ave. E, Bradenton, FL 34208",
+      "facts": {
+        "music_nights": "every Friday and Saturday",
+        "genres": "unknown",
+        "cover": "unknown",
+        "setting": "outdoor",
+        "venue_type": "brewery",
+        "food": "full menu",
+        "ages": "all ages",
+        "area": "Bradenton",
+        "tags": [
+          "family friendly",
+          "dog friendly",
+          "outdoor seating",
+          "dinner menu"
+        ]
+      },
+      "website": "https://www.3keysbrewing.com/",
+      "phone": "",
+      "source": "https://www.3keysbrewing.com/about-us/",
+      "checked": "2026-11-04"
+    },
+    {
+      "name": "Ed's Tavern",
+      "location": "10719 Rodeo Drive, Lakewood Ranch, FL 34202",
+      "facts": {
+        "music_nights": "Fri & Sat 8:00 PM",
+        "genres": "classic rock, acoustic",
+        "cover": "Free",
+        "setting": "mixed",
+        "venue_type": "bar",
+        "food": "full menu",
+        "ages": "all ages",
+        "area": "Lakewood Ranch",
+        "tags": [
+          "family friendly",
+          "no cover",
+          "dinner menu",
+          "late night",
+          "lively",
+          "outdoor seating"
+        ]
+      },
+      "website": "https://edstavernfl.com/",
+      "phone": "(941) 907-0400",
+      "source": "https://edstavernfl.com/things-to-do-lakewood-ranch-free-weeknight-entertainment/",
+      "checked": "2026-11-04"
+    },
+    {
+      "name": "Cortez Kitchen",
+      "location": "4528 119th Street West, Cortez",
+      "facts": {
+        "music_nights": "Monday Night Blues 5:00 pm – 8:00 pm; Fri–Sun live music on the venue calendar",
+        "genres": "blues",
+        "cover": "unknown",
+        "setting": "waterfront",
+        "venue_type": "restaurant",
+        "food": "full menu",
+        "ages": "unknown",
+        "area": "Cortez",
+        "tags": [
+          "waterfront",
+          "dinner menu"
+        ]
+      },
+      "website": "https://www.cortezkitchenfl.com/",
+      "phone": "",
+      "source": "https://www.cortezkitchenfl.com/events",
+      "checked": "2026-11-04"
+    },
+    {
+      "name": "Anna Maria Island Beach Cafe",
+      "location": "4000 Gulf Drive, Holmes Beach, FL 34217",
+      "facts": {
+        "music_nights": "weekly live music",
+        "genres": "unknown",
+        "cover": "unknown",
+        "setting": "waterfront",
+        "venue_type": "cafe",
+        "food": "unknown",
+        "ages": "all ages",
+        "area": "Holmes Beach",
+        "tags": [
+          "waterfront",
+          "outdoor seating"
+        ]
+      },
+      "website": "https://www.amibeachcafe.com/",
+      "phone": "(941) 778-0784",
+      "source": "https://www.amibeachcafe.com/about-us",
+      "checked": "2026-11-04"
+    }
+  ],
+  "body_md": "Waterfront and outdoor live music listings include Cortez, Anna Maria, Holmes Beach, Bradenton Beach, Bradenton, and Lakewood Ranch. Swordfish Grill & Tiki Bar lists 5:00–8:00 pm seven nights a week, plus Saturday and Sunday lunch at 12:00–4:00 pm; Harry's Grill lists 6:00–8:30 pm Monday, Tuesday, and Thursday through Sunday; The Ugly Grouper lists live music daily; Freckled Fin Irish Pub lists most nights; Drift-In AMI lists almost every night; and Anna Maria Island Beach Cafe lists weekly live music.\n\n## By night\n\n- **Monday:** Swordfish Grill & Tiki Bar, Harry's Grill, The Ugly Grouper, Cortez Kitchen (blues, 5:00–8:00 pm), Freckled Fin Irish Pub (karaoke, 7:30–11:30 pm).\n- **Tuesday:** Swordfish Grill & Tiki Bar, Harry's Grill, The Ugly Grouper.\n- **Wednesday:** Swordfish Grill & Tiki Bar, The Ugly Grouper.\n- **Thursday:** Swordfish Grill & Tiki Bar, Harry's Grill, The Ugly Grouper.\n- **Friday:** Swordfish Grill & Tiki Bar, Harry's Grill, The Ugly Grouper, 3 Keys Brewing, Ed's Tavern (8:00 pm), Cortez Kitchen.\n- **Saturday:** Swordfish Grill & Tiki Bar, Harry's Grill, The Ugly Grouper, 3 Keys Brewing, Ed's Tavern (8:00 pm), Cortez Kitchen.\n- **Sunday:** Swordfish Grill & Tiki Bar, Harry's Grill, The Ugly Grouper, Cortez Kitchen.\n\n## Good to know\n\n- **Cover:** Ed's Tavern lists a free cover; other listings do not list a cover amount.\n- **Setting:** Waterfront, outdoor, and mixed settings are listed, and outdoor seating is tagged on most listings.\n- **Food:** A full menu is listed at seven venues.\n\n## FAQ\n\n### Which listings are waterfront or outdoor?\nSwordfish Grill & Tiki Bar, Cortez Kitchen, and Anna Maria Island Beach Cafe list waterfront settings; The Ugly Grouper and 3 Keys Brewing list outdoor settings.\n\n### Which listings are all ages?\nHarry's Grill, The Ugly Grouper, Freckled Fin Irish Pub, 3 Keys Brewing, Ed's Tavern, and Anna Maria Island Beach Cafe list all ages.\n\n### What styles are listed?\nListed styles include blues, classic covers, beach covers, originals, rock, reggae, classic rock, and acoustic.",
+  "citations": [],
+  "published": "2026-11-04",
+  "updated": "2026-11-04"
+}
