@@ -1,0 +1,185 @@
+{
+  "slug": "waterfront-and-outdoor-live-music-in-sarasota-fl",
+  "title": "Waterfront and outdoor live music in Sarasota, FL",
+  "city": "Sarasota",
+  "description": "Recurring live music at waterfront, outdoor, and downtown restaurants, bars, and breweries in Sarasota and Siesta Key, with schedules taken from each venue's own site.",
+  "records": [
+    {
+      "name": "Captain Curt's Crab & Oyster Bar (Sniki Tiki)",
+      "location": "1200 Old Stickney Point Rd, Sarasota, Florida, 34242",
+      "facts": {
+        "music_nights": "1-5pm, and 6-10pm nightly; Friday, Saturday, and Sunday nights have a full band; karaoke 6-10pm every Tuesday & Thursday",
+        "genres": "unknown",
+        "cover": "unknown",
+        "setting": "outdoor",
+        "venue_type": "restaurant",
+        "food": "full menu",
+        "ages": "unknown",
+        "area": "Siesta Key",
+        "tags": [
+          "outdoor seating",
+          "dinner menu"
+        ]
+      },
+      "website": "https://www.captaincurts.com/",
+      "phone": "(941) 349-3885",
+      "source": "https://www.captaincurts.com/events-entertainment/",
+      "checked": "2026-11-05"
+    },
+    {
+      "name": "O'Leary's Tiki Bar & Grill",
+      "location": "",
+      "facts": {
+        "music_nights": "Live Entertainment Daily",
+        "genres": "unknown",
+        "cover": "unknown",
+        "setting": "waterfront",
+        "venue_type": "restaurant",
+        "food": "full menu",
+        "ages": "unknown",
+        "area": "Sarasota",
+        "tags": [
+          "waterfront",
+          "dinner menu",
+          "family friendly"
+        ]
+      },
+      "website": "https://www.olearystikibar.com/",
+      "phone": "",
+      "source": "https://www.olearystikibar.com/",
+      "checked": "2026-11-05"
+    },
+    {
+      "name": "Marina Jack Deep Six Lounge & Piano Bar",
+      "location": "2 Marina Plaza, Sarasota, FL 34236",
+      "facts": {
+        "music_nights": "Tuesdays - Sundays at 5:00pm",
+        "genres": "piano",
+        "cover": "unknown",
+        "setting": "waterfront",
+        "venue_type": "restaurant",
+        "food": "full menu",
+        "ages": "unknown",
+        "area": "downtown Sarasota",
+        "tags": [
+          "waterfront",
+          "dinner menu"
+        ]
+      },
+      "website": "https://www.marinajacks.com/",
+      "phone": "941-365-4232",
+      "source": "https://www.marinajacks.com/water-front-dining/deep-six-lounge-piano-bar.html",
+      "checked": "2026-11-05"
+    },
+    {
+      "name": "Michael's On East",
+      "location": "1212 S. East Avenue, Sarasota, FL 34239",
+      "facts": {
+        "music_nights": "Tuesday to Saturday, live piano 5pm until 9pm followed by lite jazz until close",
+        "genres": "piano, jazz",
+        "cover": "unknown",
+        "setting": "indoor",
+        "venue_type": "restaurant",
+        "food": "full menu",
+        "ages": "unknown",
+        "area": "Sarasota",
+        "tags": [
+          "dinner menu",
+          "late night"
+        ]
+      },
+      "website": "https://bestfood.com/",
+      "phone": "941-366-0007",
+      "source": "https://bestfood.com/restaurant-menus/special-menus",
+      "checked": "2026-11-05"
+    },
+    {
+      "name": "Vino Bistro",
+      "location": "1419 5th Street, Sarasota, FL 34236",
+      "facts": {
+        "music_nights": "Tuesday Night Jazz 6-8:30pm; Thursday Open Mic; Friday Night Live and Saturday Night Live 6:30-9:30pm",
+        "genres": "jazz, soul, rock",
+        "cover": "Free",
+        "setting": "indoor",
+        "venue_type": "wine bar",
+        "food": "full menu",
+        "ages": "unknown",
+        "area": "Rosemary District, Sarasota",
+        "tags": [
+          "date night",
+          "no cover",
+          "dinner menu"
+        ]
+      },
+      "website": "https://www.vinobistrosarasota.com/",
+      "phone": "941-952-3172",
+      "source": "https://www.vinobistrosarasota.com/post/live-music-entertainment-in-sarasota-the-complete-guide",
+      "checked": "2026-11-05"
+    },
+    {
+      "name": "Big Top Brewing",
+      "location": "3045 Fruitville Commons Blvd, Sarasota, FL 34240",
+      "facts": {
+        "music_nights": "Every Friday & Saturday Night (8:00-10:00PM)",
+        "genres": "unknown",
+        "cover": "unknown",
+        "setting": "unknown",
+        "venue_type": "brewery",
+        "food": "full menu",
+        "ages": "unknown",
+        "area": "Sarasota",
+        "tags": [
+          "dinner menu"
+        ]
+      },
+      "website": "https://www.bigtopbrewing.com/",
+      "phone": "",
+      "source": "https://www.bigtopbrewing.com/events/live-music-events",
+      "checked": "2026-11-05"
+    },
+    {
+      "name": "The Gator Club",
+      "location": "",
+      "facts": {
+        "music_nights": "Live music 5 days a week; DJ every Friday and Saturday night",
+        "genres": "unknown",
+        "cover": "unknown",
+        "setting": "unknown",
+        "venue_type": "bar",
+        "food": "bar food",
+        "ages": "unknown",
+        "area": "Sarasota",
+        "tags": []
+      },
+      "website": "https://www.thegatorclub.com/",
+      "phone": "",
+      "source": "https://www.thegatorclub.com/",
+      "checked": "2026-11-05"
+    },
+    {
+      "name": "Lefty's Oyster & Seafood Bar",
+      "location": "428 N Lemon Ave, Sarasota, FL 34236",
+      "facts": {
+        "music_nights": "Sundays",
+        "genres": "unknown",
+        "cover": "unknown",
+        "setting": "unknown",
+        "venue_type": "restaurant",
+        "food": "full menu",
+        "ages": "unknown",
+        "area": "Sarasota",
+        "tags": [
+          "dinner menu"
+        ]
+      },
+      "website": "https://leftysoysterseafood.com/",
+      "phone": "941.954.8688",
+      "source": "https://leftysoysterseafood.com/",
+      "checked": "2026-11-05"
+    }
+  ],
+  "body_md": "Sarasota listings here include nightly outdoor music at Captain Curt's Crab & Oyster Bar (Sniki Tiki) on Siesta Key and daily live entertainment at waterfront O'Leary's Tiki Bar & Grill, plus piano at waterfront Marina Jack Deep Six Lounge & Piano Bar. Hours below are from venue pages checked on November 5, 2026.\n\n## By night\n\n- **Monday:** Captain Curt's, 1–5pm and 6–10pm; O'Leary's, live entertainment daily.\n- **Tuesday:** Captain Curt's, 1–5pm and 6–10pm, karaoke 6–10pm; O'Leary's, daily; Marina Jack, piano at 5:00pm.\n- **Wednesday:** Captain Curt's, 1–5pm and 6–10pm; O'Leary's, daily; Marina Jack, piano at 5:00pm.\n- **Thursday:** Captain Curt's, 1–5pm and 6–10pm, karaoke 6–10pm; O'Leary's, daily; Marina Jack, piano at 5:00pm.\n- **Friday:** Captain Curt's, 1–5pm and 6–10pm, full band at night; O'Leary's, daily; Marina Jack, piano at 5:00pm.\n- **Saturday:** Captain Curt's, 1–5pm and 6–10pm, full band at night; O'Leary's, daily; Marina Jack, piano at 5:00pm.\n- **Sunday:** Captain Curt's, 1–5pm and 6–10pm, full band at night; O'Leary's, daily; Marina Jack, piano at 5:00pm.\n\n## Good to know\n\n- **Cover:** Cover is listed as unknown for Captain Curt's, O'Leary's, and Marina Jack.\n- **Setting:** Captain Curt's is outdoor on Siesta Key, with outdoor seating. O'Leary's is waterfront in Sarasota. Marina Jack is waterfront in downtown Sarasota.\n- **Food:** All three are restaurants with a full menu and a dinner menu. Ages are not listed; O'Leary's is listed as family friendly.\n\n## FAQ\n\n### Who lists music every night of the week?\nCaptain Curt's lists music 1–5pm and 6–10pm nightly, and O'Leary's lists live entertainment daily.\n\n### Where is piano listed?\nMarina Jack Deep Six Lounge & Piano Bar lists piano Tuesdays through Sundays at 5:00pm on the downtown Sarasota waterfront.\n\n### Is daytime music listed?\nCaptain Curt's lists music from 1–5pm as well as 6–10pm nightly.",
+  "citations": [],
+  "published": "2026-11-05",
+  "updated": "2026-11-05"
+}
