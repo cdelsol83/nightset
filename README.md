@@ -8,7 +8,7 @@ St. Petersburg, Bradenton, Sarasota, Venice, Punta Gorda and Fort Myers. Site: h
 A small bot in `bot/` (adapted from Mogul) runs on GitHub Actions:
 
 - **Nightly build** (`bot/nightset.py build`): re-checks the oldest guide older than 30 days, then
-  researches new guides with Grok web search until `PAGES_PER_NIGHT` is reached. Order: one city
+  researches a new guide with Grok web search, up to `PAGES_PER_NIGHT` (1) per night. Order: one city
   overview per city, then each theme (waterfront, date night, jazz dinner, family, no cover...) in
   every city.
 - **Trust rule:** a venue is listed only when its recurring music schedule is stated on the venue's
