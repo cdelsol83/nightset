@@ -52,7 +52,10 @@
   {
     "title": "Waterfront and outdoor live music in Punta Gorda, FL",
     "city": "Punta Gorda",
-    "status": "queued"
+    "status": "rejected",
+    "reasons": [
+      "only 4 venues (< 5)"
+    ]
   },
   {
     "title": "Waterfront and outdoor live music in Fort Myers, FL",
