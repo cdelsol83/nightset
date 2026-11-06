@@ -68,7 +68,7 @@ NOT_VENUE_SOURCES = (
 )
 
 # --- Builder quality gate: a page that fails ANY of these is not published ---
-PAGES_PER_NIGHT = 2
+PAGES_PER_NIGHT = 1       # new or re-checked guides per night (each costs xAI credits)
 MIN_RECORDS = 5
 MIN_WORDS = 150
 MAX_SIMILARITY = 0.55
