@@ -60,7 +60,10 @@
   {
     "title": "Waterfront and outdoor live music in Fort Myers, FL",
     "city": "Fort Myers",
-    "status": "queued"
+    "status": "rejected",
+    "reasons": [
+      "only 2 venues (< 5)"
+    ]
   },
   {
     "title": "Date night with live music in St. Petersburg, FL",
