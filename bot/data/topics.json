@@ -83,7 +83,10 @@
   {
     "title": "Date night with live music in Venice, FL",
     "city": "Venice",
-    "status": "queued"
+    "status": "rejected",
+    "reasons": [
+      "only 2 venues (< 5)"
+    ]
   },
   {
     "title": "Date night with live music in Punta Gorda, FL",
