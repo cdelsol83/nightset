@@ -50,22 +50,6 @@
     "status": "published"
   },
   {
-    "title": "Waterfront and outdoor live music in Punta Gorda, FL",
-    "city": "Punta Gorda",
-    "status": "rejected",
-    "reasons": [
-      "only 4 venues (< 5)"
-    ]
-  },
-  {
-    "title": "Waterfront and outdoor live music in Fort Myers, FL",
-    "city": "Fort Myers",
-    "status": "rejected",
-    "reasons": [
-      "only 2 venues (< 5)"
-    ]
-  },
-  {
     "title": "Date night with live music in St. Petersburg, FL",
     "city": "St. Petersburg",
     "status": "published"
@@ -81,12 +65,19 @@
     "status": "published"
   },
   {
+    "title": "Waterfront and outdoor live music in Punta Gorda, FL",
+    "city": "Punta Gorda",
+    "status": "queued"
+  },
+  {
+    "title": "Waterfront and outdoor live music in Fort Myers, FL",
+    "city": "Fort Myers",
+    "status": "queued"
+  },
+  {
     "title": "Date night with live music in Venice, FL",
     "city": "Venice",
-    "status": "rejected",
-    "reasons": [
-      "only 2 venues (< 5)"
-    ]
+    "status": "queued"
   },
   {
     "title": "Date night with live music in Punta Gorda, FL",
