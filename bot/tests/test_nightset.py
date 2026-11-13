@@ -105,3 +105,24 @@ def test_schedule_text_becomes_days():
     assert render.days_of("Sunset sessions on Saturday") == ["sat"]
     assert render.days_of("monthly jazz") == []
     assert render.short("dueling pianos (rock to hits, requests), jam night", 2) == ["dueling pianos", "jam night"]
+
+
+def test_model_at_capacity_is_retried(monkeypatch):
+    import llm
+    monkeypatch.setattr(config, "DEMO", False)
+    monkeypatch.setattr(config, "XAI_API_KEY", "k")
+    monkeypatch.setattr(llm.time, "sleep", lambda s: None)
+    busy = {"type": "error", "message": "The model is currently at capacity due to high demand. Please try again in a few minutes"}
+    ok = {"type": "response.output_text.delta", "delta": "ok"}
+    replies = [[busy], [ok]]
+
+    class Stream:
+        def __init__(self, events):
+            self.lines = [f"data: {json.dumps(e)}\n".encode() for e in events] + [b"data: [DONE]\n"]
+        def __enter__(self):
+            return iter(self.lines)
+        def __exit__(self, *a):
+            return False
+    monkeypatch.setattr(llm.urllib.request, "urlopen", lambda req, timeout: Stream(replies.pop(0)))
+    assert llm.ask("hi") == ("ok", [])
+    assert replies == []
