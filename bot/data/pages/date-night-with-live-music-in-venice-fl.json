@@ -1,0 +1,222 @@
+{
+  "slug": "date-night-with-live-music-in-venice-fl",
+  "title": "Date night with live music in Venice, FL",
+  "city": "Venice",
+  "description": "Recurring live-music nights at restaurants, bars, and a brewery in Venice, Nokomis, and Englewood for a Gulf Coast date night.",
+  "records": [
+    {
+      "name": "Captain Eddie's Seafood",
+      "location": "107 E. Colonia Lane, Nokomis, FL 34275",
+      "facts": {
+        "music_nights": "Seven nights a week, 5:30pm-8:30pm",
+        "genres": "unknown",
+        "cover": "unknown",
+        "setting": "outdoor",
+        "venue_type": "restaurant",
+        "food": "full menu",
+        "ages": "unknown",
+        "area": "Nokomis",
+        "tags": [
+          "date night",
+          "family friendly",
+          "outdoor seating",
+          "dinner menu",
+          "lively"
+        ]
+      },
+      "website": "https://www.captaineddiesseafood.com/",
+      "phone": "(941) 484-4372",
+      "source": "https://www.captaineddiesseafood.com/live-music/",
+      "checked": "2026-11-14"
+    },
+    {
+      "name": "Pop's Sunset Grill",
+      "location": "112 Circuit Road, Nokomis, FL 34275",
+      "facts": {
+        "music_nights": "Daily live music",
+        "genres": "covers, acoustic",
+        "cover": "unknown",
+        "setting": "outdoor",
+        "venue_type": "restaurant",
+        "food": "full menu",
+        "ages": "unknown",
+        "area": "Nokomis",
+        "tags": [
+          "waterfront",
+          "outdoor seating",
+          "dinner menu",
+          "lively"
+        ]
+      },
+      "website": "https://www.popssunsetgrill.com/",
+      "phone": "(941) 488-3177",
+      "source": "https://www.popssunsetgrill.com/entertainment/",
+      "checked": "2026-11-14"
+    },
+    {
+      "name": "Nokomo's Sunset Hut",
+      "location": "690 S Tamiami Trail, Nokomis, FL 34275",
+      "facts": {
+        "music_nights": "Daily live music",
+        "genres": "unknown",
+        "cover": "unknown",
+        "setting": "waterfront",
+        "venue_type": "restaurant",
+        "food": "full menu",
+        "ages": "unknown",
+        "area": "Nokomis",
+        "tags": [
+          "waterfront",
+          "dinner menu"
+        ]
+      },
+      "website": "https://www.nokomos.com/",
+      "phone": "(941) 488-1324",
+      "source": "https://www.nokomos.com/",
+      "checked": "2026-11-14"
+    },
+    {
+      "name": "Paradise Grill",
+      "location": "1097 N. Tamiami Trail, Nokomis, FL 34275",
+      "facts": {
+        "music_nights": "Live music daily",
+        "genres": "unknown",
+        "cover": "unknown",
+        "setting": "mixed",
+        "venue_type": "restaurant",
+        "food": "full menu",
+        "ages": "unknown",
+        "area": "Nokomis",
+        "tags": [
+          "outdoor seating",
+          "dinner menu",
+          "lively"
+        ]
+      },
+      "website": "https://www.paradisegrillfl.com/",
+      "phone": "(941) 786-1524",
+      "source": "https://www.paradisegrillfl.com/about",
+      "checked": "2026-11-14"
+    },
+    {
+      "name": "Cafe Venice Restaurant & Bar",
+      "location": "101 W Venice Ave, Venice, FL 34285",
+      "facts": {
+        "music_nights": "Mon, Thu, Fri & Sat 7-10pm",
+        "genres": "jazz, classic rock, standards",
+        "cover": "unknown",
+        "setting": "mixed",
+        "venue_type": "restaurant",
+        "food": "full menu",
+        "ages": "all ages",
+        "area": "Venice",
+        "tags": [
+          "family friendly",
+          "outdoor seating",
+          "dinner menu",
+          "dog friendly"
+        ]
+      },
+      "website": "https://www.cafevenicerestaurantandbar.com/",
+      "phone": "941-484-1855",
+      "source": "https://www.cafevenicerestaurantandbar.com/music",
+      "checked": "2026-11-14"
+    },
+    {
+      "name": "3 Bridges Brewing",
+      "location": "1765 S Tamiami Trail, Venice, FL 34293",
+      "facts": {
+        "music_nights": "Fri-Sat live music",
+        "genres": "unknown",
+        "cover": "unknown",
+        "setting": "mixed",
+        "venue_type": "brewery",
+        "food": "bar food",
+        "ages": "unknown",
+        "area": "Venice",
+        "tags": [
+          "outdoor seating"
+        ]
+      },
+      "website": "https://3bridgesbrewing.com/",
+      "phone": "(941) 445-4067",
+      "source": "https://3bridgesbrewing.com/",
+      "checked": "2026-11-14"
+    },
+    {
+      "name": "SandBar Tiki & Grille",
+      "location": "1975 Beach Rd, Englewood, FL 34223",
+      "facts": {
+        "music_nights": "Daily live music",
+        "genres": "unknown",
+        "cover": "unknown",
+        "setting": "mixed",
+        "venue_type": "restaurant",
+        "food": "full menu",
+        "ages": "unknown",
+        "area": "Englewood",
+        "tags": [
+          "family friendly",
+          "waterfront",
+          "outdoor seating",
+          "dance floor",
+          "dinner menu"
+        ]
+      },
+      "website": "https://www.sandbartikigrille.com/",
+      "phone": "941.460.8280",
+      "source": "https://www.sandbartikigrille.com/events/",
+      "checked": "2026-11-14"
+    },
+    {
+      "name": "Farlow's On The Water",
+      "location": "2080 S McCall Rd, Englewood, FL 34224",
+      "facts": {
+        "music_nights": "Wed-Sun live entertainment",
+        "genres": "unknown",
+        "cover": "unknown",
+        "setting": "mixed",
+        "venue_type": "restaurant",
+        "food": "full menu",
+        "ages": "unknown",
+        "area": "Englewood",
+        "tags": [
+          "waterfront",
+          "outdoor seating",
+          "dinner menu"
+        ]
+      },
+      "website": "https://www.farlowsonthewater.com/",
+      "phone": "941.474.5343",
+      "source": "https://www.farlowsonthewater.com/general-info/",
+      "checked": "2026-11-14"
+    },
+    {
+      "name": "Lighthouse Grill and Tiki Bar",
+      "location": "260 Maryland Avenue, Englewood, FL",
+      "facts": {
+        "music_nights": "Live music nightly",
+        "genres": "unknown",
+        "cover": "unknown",
+        "setting": "waterfront",
+        "venue_type": "restaurant",
+        "food": "full menu",
+        "ages": "unknown",
+        "area": "Englewood",
+        "tags": [
+          "waterfront",
+          "outdoor seating",
+          "dinner menu"
+        ]
+      },
+      "website": "https://www.lighthouse-grill.com/",
+      "phone": "",
+      "source": "https://www.lighthouse-grill.com/location/lighthouse-grill/",
+      "checked": "2026-11-14"
+    }
+  ],
+  "body_md": "Live music is listed every night in Venice, Nokomis, and Englewood. Hours are included only when a listing gives them.\n\n## By night\n\n- **Sunday:** Captain Eddie's Seafood, Farlow's On The Water, Lighthouse Grill and Tiki Bar, Nokomo's Sunset Hut, Paradise Grill, Pop's Sunset Grill, SandBar Tiki & Grille.\n- **Monday:** Cafe Venice Restaurant & Bar, Captain Eddie's Seafood, Lighthouse Grill and Tiki Bar, Nokomo's Sunset Hut, Paradise Grill, Pop's Sunset Grill, SandBar Tiki & Grille.\n- **Tuesday:** Captain Eddie's Seafood, Lighthouse Grill and Tiki Bar, Nokomo's Sunset Hut, Paradise Grill, Pop's Sunset Grill, SandBar Tiki & Grille.\n- **Wednesday:** Captain Eddie's Seafood, Farlow's On The Water, Lighthouse Grill and Tiki Bar, Nokomo's Sunset Hut, Paradise Grill, Pop's Sunset Grill, SandBar Tiki & Grille.\n- **Thursday:** Cafe Venice Restaurant & Bar, Captain Eddie's Seafood, Farlow's On The Water, Lighthouse Grill and Tiki Bar, Nokomo's Sunset Hut, Paradise Grill, Pop's Sunset Grill, SandBar Tiki & Grille.\n- **Friday:** 3 Bridges Brewing, Cafe Venice Restaurant & Bar, Captain Eddie's Seafood, Farlow's On The Water, Lighthouse Grill and Tiki Bar, Nokomo's Sunset Hut, Paradise Grill, Pop's Sunset Grill, SandBar Tiki & Grille.\n- **Saturday:** 3 Bridges Brewing, Cafe Venice Restaurant & Bar, Captain Eddie's Seafood, Farlow's On The Water, Lighthouse Grill and Tiki Bar, Nokomo's Sunset Hut, Paradise Grill, Pop's Sunset Grill, SandBar Tiki & Grille.\n\n## Good to know\n\n- **Cover:** Unknown.\n- **Setting:** Listed settings are outdoor, waterfront, or mixed.\n- **Food and ages:** Restaurants list a full menu; 3 Bridges Brewing lists bar food. Cafe Venice Restaurant & Bar lists all ages.\n\n## FAQ\n\n### What hours are posted?\nCaptain Eddie's Seafood lists 5:30pm-8:30pm seven nights a week, and Cafe Venice Restaurant & Bar lists 7-10pm Monday, Thursday, Friday, and Saturday.\n\n### Which genres are listed?\nPop's Sunset Grill lists covers and acoustic; Cafe Venice Restaurant & Bar lists jazz, classic rock, and standards.\n\n### What nights does Farlow's On The Water list?\nFarlow's On The Water lists Wed-Sun live entertainment.",
+  "citations": [],
+  "published": "2026-11-14",
+  "updated": "2026-11-14"
+}
