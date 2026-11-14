@@ -16,6 +16,10 @@ class LLMError(RuntimeError):
     pass
 
 
+class BusyError(ConnectionError):
+    """xAI said the model is at capacity: worth waiting a few minutes and trying again."""
+
+
 def ask(prompt, tools=("web_search",), system=None):
     """Return (text, citations). tools: any of "web_search", "x_search"."""
     if config.DEMO:
@@ -32,6 +36,12 @@ def ask(prompt, tools=("web_search",), system=None):
         except urllib.error.HTTPError as e:
             if (e.code < 500 and e.code != 429) or attempt == ATTEMPTS:
                 raise LLMError(f"xAI API {e.code}: {e.read()[:500]!r}") from e
+        except BusyError as e:
+            if attempt == ATTEMPTS:
+                raise LLMError(f"xAI model still at capacity after {ATTEMPTS} attempts: {e}") from e
+            print(f"xAI model at capacity (attempt {attempt}/{ATTEMPTS}), retrying in {120 * attempt}s")
+            time.sleep(120 * attempt)
+            continue
         except (urllib.error.URLError, http.client.HTTPException, ConnectionError, TimeoutError) as e:
             if attempt == ATTEMPTS:
                 raise LLMError(f"xAI API unreachable after {ATTEMPTS} attempts: {e!r}") from e
@@ -62,6 +72,8 @@ def _call(body):
             elif event.get("type") == "response.completed":
                 final = event.get("response", {})
             elif event.get("type") in ("response.failed", "error"):
+                if re.search(r"capacity|high demand|try again", json.dumps(event), re.I):
+                    raise BusyError(json.dumps(event)[:300])
                 raise LLMError(f"xAI API error: {json.dumps(event)[:500]}")
     if final is None and not deltas and other:
         try:
