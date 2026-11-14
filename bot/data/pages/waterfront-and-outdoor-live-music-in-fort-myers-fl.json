@@ -1,0 +1,258 @@
+{
+  "slug": "waterfront-and-outdoor-live-music-in-fort-myers-fl",
+  "title": "Waterfront and outdoor live music in Fort Myers, FL",
+  "city": "Fort Myers",
+  "description": "Waterfront and outdoor restaurants, bars, and parks around Fort Myers, Fort Myers Beach, and Cape Coral with recurring live music stated on each venue’s own site.",
+  "records": [
+    {
+      "name": "License to Chill Bar & Grill",
+      "location": "Margaritaville Beach Resort, Fort Myers Beach",
+      "facts": {
+        "music_nights": "Sunday-Thursday: 6 pm - 9 pm; Friday-Saturday: 7:30 pm - 10:30 pm",
+        "genres": "island",
+        "cover": "Free",
+        "setting": "waterfront",
+        "venue_type": "restaurant",
+        "food": "full menu",
+        "ages": "unknown",
+        "area": "Fort Myers Beach",
+        "tags": [
+          "waterfront",
+          "outdoor seating",
+          "family friendly",
+          "lively",
+          "dinner menu",
+          "dog friendly",
+          "no cover"
+        ]
+      },
+      "website": "https://www.margaritavilleresorts.com/margaritaville-beach-resort-fort-myers-beach/eat-drink/license-to-chill-bar-grill",
+      "phone": "(239) 899-4001",
+      "source": "https://www.margaritavilleresorts.com/margaritaville-beach-resort-fort-myers-beach/eat-drink/license-to-chill-bar-grill",
+      "checked": "2026-11-14"
+    },
+    {
+      "name": "Lah De Dah Beach Bar & Grill",
+      "location": "1170 Estero Boulevard, Fort Myers Beach, FL 33931",
+      "facts": {
+        "music_nights": "Mon & Sun 5-8pm; Fri & Sat 7-10pm",
+        "genres": "country, pop, island",
+        "cover": "Free",
+        "setting": "waterfront",
+        "venue_type": "bar",
+        "food": "full menu",
+        "ages": "all ages",
+        "area": "Fort Myers Beach",
+        "tags": [
+          "waterfront",
+          "outdoor seating",
+          "lively",
+          "dinner menu",
+          "family friendly",
+          "late night",
+          "no cover"
+        ]
+      },
+      "website": "https://www.margaritavilleresorts.com/margaritaville-beach-resort-fort-myers-beach/eat-drink/lah-de-dah-beach-bar-grill",
+      "phone": "(239) 899-4095",
+      "source": "https://www.margaritavilleresorts.com/margaritaville-beach-resort-fort-myers-beach/eat-drink/lah-de-dah-beach-bar-grill",
+      "checked": "2026-11-14"
+    },
+    {
+      "name": "Bonita Fish Company",
+      "location": "under the Matanzas Pass Bridge on Estero Bay, Fort Myers Beach",
+      "facts": {
+        "music_nights": "Live music daily; every day of the week",
+        "genres": "acoustic",
+        "cover": "Free",
+        "setting": "waterfront",
+        "venue_type": "restaurant",
+        "food": "full menu",
+        "ages": "all ages",
+        "area": "Fort Myers Beach",
+        "tags": [
+          "family friendly",
+          "waterfront",
+          "outdoor seating",
+          "no cover",
+          "dinner menu",
+          "lively"
+        ]
+      },
+      "website": "https://bonitafishco.com/",
+      "phone": "",
+      "source": "https://bonitafishco.com/live-music/",
+      "checked": "2026-11-14"
+    },
+    {
+      "name": "Matanzas on the Bay",
+      "location": "416 Crescent Street, Fort Myers Beach, FL 33931",
+      "facts": {
+        "music_nights": "Mon 4:30pm-8:30pm; Tue 6:30pm-9:30pm; Wed 6:30pm-9:30pm; Thu 6:30pm-9:30pm; Fri 6:30pm-9:30pm; Sat 6:30pm-9:30pm; Sun reggae all day",
+        "genres": "reggae",
+        "cover": "unknown",
+        "setting": "waterfront",
+        "venue_type": "restaurant",
+        "food": "full menu",
+        "ages": "unknown",
+        "area": "Fort Myers Beach",
+        "tags": [
+          "waterfront",
+          "dinner menu",
+          "lively"
+        ]
+      },
+      "website": "https://matanzasonthebay.com/",
+      "phone": "(239) 463-3838",
+      "source": "https://matanzasonthebay.com/events/",
+      "checked": "2026-11-14"
+    },
+    {
+      "name": "Doc Ford's Rum Bar & Grille",
+      "location": "708 Fishermans Wharf, Ft Myers Beach, FL 33931",
+      "facts": {
+        "music_nights": "live music most nights",
+        "genres": "unknown",
+        "cover": "unknown",
+        "setting": "waterfront",
+        "venue_type": "restaurant",
+        "food": "full menu",
+        "ages": "unknown",
+        "area": "Fort Myers Beach",
+        "tags": [
+          "waterfront",
+          "outdoor seating",
+          "dinner menu"
+        ]
+      },
+      "website": "https://docfords.com/",
+      "phone": "(239) 765-9660",
+      "source": "https://docfords.com/doc-fords-fmb-decorates-lakes-park/",
+      "checked": "2026-11-14"
+    },
+    {
+      "name": "The Boathouse Tiki Bar & Grill",
+      "location": "17101 SR 31, Fort Myers, FL 33905",
+      "facts": {
+        "music_nights": "live music - all day, everyday",
+        "genres": "beach",
+        "cover": "unknown",
+        "setting": "waterfront",
+        "venue_type": "bar",
+        "food": "full menu",
+        "ages": "unknown",
+        "area": "Fort Myers",
+        "tags": [
+          "waterfront",
+          "outdoor seating",
+          "dinner menu",
+          "lively"
+        ]
+      },
+      "website": "https://www.theboathouseusa.com/",
+      "phone": "(239) 332-2628",
+      "source": "https://theboathouseusa.com/",
+      "checked": "2026-11-14"
+    },
+    {
+      "name": "Lighthouse Waterfront Restaurant",
+      "location": "next to Port Sanibel Marina, just before the Sanibel Causeway, Fort Myers",
+      "facts": {
+        "music_nights": "Live music every day; live music every afternoon and evening",
+        "genres": "unknown",
+        "cover": "unknown",
+        "setting": "waterfront",
+        "venue_type": "restaurant",
+        "food": "full menu",
+        "ages": "unknown",
+        "area": "Fort Myers",
+        "tags": [
+          "waterfront",
+          "outdoor seating",
+          "dinner menu",
+          "date night"
+        ]
+      },
+      "website": "https://lighthousewaterfrontrestaurant.com/",
+      "phone": "(239) 489-0770",
+      "source": "https://lighthousewaterfrontrestaurant.com/",
+      "checked": "2026-11-14"
+    },
+    {
+      "name": "Slipaway Food Truck Park & Marina",
+      "location": "1811 Cape Coral Pkwy E, Cape Coral, FL 33904",
+      "facts": {
+        "music_nights": "live performances every day starting at midday; Reggae Sundays every Sunday at noon",
+        "genres": "reggae",
+        "cover": "unknown",
+        "setting": "waterfront",
+        "venue_type": "food truck park",
+        "food": "full menu",
+        "ages": "unknown",
+        "area": "Cape Coral",
+        "tags": [
+          "family friendly",
+          "waterfront",
+          "outdoor seating",
+          "dog friendly",
+          "dinner menu",
+          "lively"
+        ]
+      },
+      "website": "https://slipawaycape.com/",
+      "phone": "239-360-8883",
+      "source": "https://slipawaycape.com/news/slipaway-food-truck-park-marina-announces-fall-events/",
+      "checked": "2026-11-14"
+    },
+    {
+      "name": "Bay Street Yard",
+      "location": "2136 Bay St, Fort Myers, FL 33901",
+      "facts": {
+        "music_nights": "Country Sundays: live music from 1 to 8 p.m. every Sunday through July",
+        "genres": "country",
+        "cover": "unknown",
+        "setting": "outdoor",
+        "venue_type": "bar",
+        "food": "full menu",
+        "ages": "unknown",
+        "area": "Downtown Fort Myers",
+        "tags": [
+          "outdoor seating",
+          "lively"
+        ]
+      },
+      "website": "https://baystreetyard.com/",
+      "phone": "(239) 940-8744",
+      "source": "https://baystreetyard.com/bay-street-yard-announces-country-sundays/",
+      "checked": "2026-11-14"
+    },
+    {
+      "name": "Aqua Restaurant",
+      "location": "4720 SE 9th Pl, Ste 100, Cape Coral, FL 33904",
+      "facts": {
+        "music_nights": "Mondays, Wednesdays, and Fridays 7:00 pm - 10:00 pm",
+        "genres": "jazz, blues, country",
+        "cover": "unknown",
+        "setting": "mixed",
+        "venue_type": "restaurant",
+        "food": "full menu",
+        "ages": "unknown",
+        "area": "Cape Coral",
+        "tags": [
+          "outdoor seating",
+          "dinner menu",
+          "late night",
+          "lively"
+        ]
+      },
+      "website": "https://aquafifth.com/",
+      "phone": "239-257-1297",
+      "source": "https://aquafifth.com/live-music-cape-coral/",
+      "checked": "2026-11-14"
+    }
+  ],
+  "body_md": "Waterfront and outdoor live music is listed in Fort Myers Beach, Fort Myers, Cape Coral, and downtown Fort Myers. Check the night below, then open a venue card for hours; details were checked 2026-11-14.\n\n## By night\n\n- **Sunday:** License to Chill, Lah De Dah, Bonita Fish Company, Matanzas on the Bay (reggae all day), The Boathouse, Lighthouse Waterfront, Slipaway (Reggae Sundays at noon), Bay Street Yard (country, 1 to 8 p.m. through July).\n- **Monday:** License to Chill, Lah De Dah, Bonita Fish Company, Matanzas on the Bay, The Boathouse, Lighthouse Waterfront, Slipaway, Aqua Restaurant.\n- **Tuesday:** License to Chill, Bonita Fish Company, Matanzas on the Bay, The Boathouse, Lighthouse Waterfront, Slipaway.\n- **Wednesday:** License to Chill, Bonita Fish Company, Matanzas on the Bay, The Boathouse, Lighthouse Waterfront, Slipaway, Aqua Restaurant.\n- **Thursday:** License to Chill, Bonita Fish Company, Matanzas on the Bay, The Boathouse, Lighthouse Waterfront, Slipaway.\n- **Friday:** License to Chill, Lah De Dah, Bonita Fish Company, Matanzas on the Bay, The Boathouse, Lighthouse Waterfront, Slipaway, Aqua Restaurant.\n- **Saturday:** License to Chill, Lah De Dah, Bonita Fish Company, Matanzas on the Bay, The Boathouse, Lighthouse Waterfront, Slipaway.\n\n## Good to know\n\n- **Cover:** Free at License to Chill, Lah De Dah, and Bonita Fish Company.\n- **Setting:** Eight venues are waterfront; Bay Street Yard is outdoor; Aqua Restaurant is mixed. Outdoor seating is tagged on most listings.\n- **Food and ages:** All ten list a full menu. Lah De Dah and Bonita Fish Company are all ages. License to Chill, Lah De Dah, Bonita Fish Company, and Slipaway are tagged family friendly.\n\n## FAQ\n\n### Who lists music every day?\nBonita Fish Company, The Boathouse (all day), Lighthouse Waterfront (afternoon and evening), and Slipaway (starting at midday) list music every day.\n\n### What genres are named?\nNamed genres are island, country, pop, acoustic, reggae, beach, jazz, and blues.\n\n### What does Doc Ford's list?\nDoc Ford's Rum Bar & Grille lists live music most nights on the waterfront.",
+  "citations": [],
+  "published": "2026-11-14",
+  "updated": "2026-11-14"
+}
