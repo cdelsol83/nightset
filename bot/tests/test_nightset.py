@@ -126,3 +126,12 @@ def test_model_at_capacity_is_retried(monkeypatch):
     monkeypatch.setattr(llm.urllib.request, "urlopen", lambda req, timeout: Stream(replies.pop(0)))
     assert llm.ask("hi") == ("ok", [])
     assert replies == []
+
+
+def test_hidden_cards_really_hide_and_vibes_include_setting_and_cover(sandbox):
+    assert "[hidden]{display:none!important}" in render.CSS  # .card{display:flex} must not override it
+    r = {"name": "X", "facts": {"tags": ["date night"], "setting": "Waterfront, mixed", "cover": "Free"}}
+    assert render.vibe_tags(r) == ["date night", "waterfront", "outdoor seating", "no cover"]
+    assert render.vibe_tags({"name": "Y", "facts": {"setting": "indoor", "cover": "$10"}}) == []
+    html = render.venue_card({**r, "source": "https://x.example/music"})
+    assert 'data-tags="date-night waterfront outdoor-seating no-cover"' in html

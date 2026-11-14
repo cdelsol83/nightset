@@ -18,7 +18,7 @@ CSS = """
 --accent:#ff8a5c;--accent2:#d36ef0;--btnfg:#160f1f}
 @media (prefers-color-scheme:light){:root{--bg:#faf7f3;--card:#fff;--fg:#1d1726;--muted:#6c6478;
 --line:#ebe4dc;--chip:#f3ecf6;--accent:#e2602f;--accent2:#9b3fc0;--btnfg:#fff}}
-*{box-sizing:border-box}html{-webkit-text-size-adjust:100%}
+*{box-sizing:border-box}[hidden]{display:none!important}html{-webkit-text-size-adjust:100%}
 body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.5 system-ui,-apple-system,"Segoe UI",sans-serif}
 a{color:var(--accent)}main,.bar,footer{max-width:1040px;margin:auto;padding:0 16px}
 .bar{display:flex;align-items:center;gap:12px;flex-wrap:wrap;padding-top:18px;padding-bottom:6px}
@@ -225,6 +225,21 @@ def fact(r, key):
     return "-" if v.strip().lower() in ("", "unknown") else v
 
 
+def vibe_tags(r):
+    """The venue's vibe tags, plus the ones its own facts already prove (setting, cover)."""
+    facts = r.get("facts", {})
+    tags = [t for t in facts.get("tags", []) or [] if t in config.VIBES]
+    setting = str(facts.get("setting", "")).lower()
+    implied = []
+    if "waterfront" in setting:
+        implied.append("waterfront")
+    if "outdoor" in setting or "mixed" in setting:
+        implied.append("outdoor seating")
+    if str(facts.get("cover", "")).strip().lower().startswith(("free", "no cover", "none")):
+        implied.append("no cover")
+    return tags + [t for t in implied if t not in tags]
+
+
 def venue_card(r, city=""):
     e = html.escape
     site, phone, bid = clean_website(r.get("website")), phone_of(r), r.get("_id")
@@ -235,7 +250,7 @@ def venue_card(r, city=""):
         name += "<span class=featured>FEATURED</span>"
     area = fact(r, "area")
     facts = r.get("facts", {})
-    tags = [t for t in facts.get("tags", []) or [] if t in config.VIBES]
+    tags = vibe_tags(r)
     chips = [f"<span class='tag hot'>{e(g)}</span>" for g in short(fact(r, "genres"), 2) if g != "-"]
     cover = fact(r, "cover")
     if cover != "-":
@@ -264,7 +279,7 @@ def filters(records, cities=None, default_day="all"):
         return f'<button class=chip data-{attr}="{value}" aria-pressed="{"true" if on else "false"}">{label}</button>'
     days = (chip("Any day", "day", "all", default_day == "all") + chip("Tonight", "day", "tonight", default_day == "tonight")
             + "".join(chip(DAY_NAMES[d], "day", d, False) for d in DAYS))
-    used = {t for r in records for t in r.get("facts", {}).get("tags", []) or []}
+    used = {t for r in records for t in vibe_tags(r)}
     vibes = chip("Any vibe", "vibe", "all", True) + "".join(
         chip(html.escape(t.capitalize()), "vibe", t.replace(" ", "-"), False) for t in config.VIBES if t in used)
     rows = [f"<div class=row>{days}</div>", f"<div class=row>{vibes}</div>"]
