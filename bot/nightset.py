@@ -53,5 +53,29 @@ def main(argv):
     return 0
 
 
+def failure_alert(cmd, exc):
+    """One short Telegram line saying what broke and what to do."""
+    msg = str(exc)
+    if "credits" in msg or "spending limit" in msg:
+        hint = "xAI is out of credits or hit its monthly limit: top up at console.x.ai > Billing, then run build."
+    elif "Incorrect API key" in msg or " 401" in msg:
+        hint = "xAI rejected the API key: check the XAI_API_KEY secret."
+    elif "does not exist" in msg and "model" in msg:
+        hint = "xAI doesn't know that model: check or delete the MOGUL_MODEL variable."
+    elif "capacity" in msg or "high demand" in msg:
+        hint = "xAI was overloaded for over 6 minutes: it should work on the next run."
+    else:
+        hint = msg[:300]
+    return f"🚨 Nightset {cmd} failed: {hint}"
+
+
 if __name__ == "__main__":
-    sys.exit(main(sys.argv))
+    command = sys.argv[1].strip().lower() if len(sys.argv) > 1 else "status"
+    try:
+        sys.exit(main(sys.argv))
+    except Exception as e:
+        try:
+            telegram.send(failure_alert(command, e))
+        except Exception as tg:  # never hide the real error behind a Telegram problem
+            print(f"[could not send Telegram alert: {tg!r}]")
+        raise

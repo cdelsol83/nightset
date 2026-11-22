@@ -135,3 +135,10 @@ def test_hidden_cards_really_hide_and_vibes_include_setting_and_cover(sandbox):
     assert render.vibe_tags({"name": "Y", "facts": {"setting": "indoor", "cover": "$10"}}) == []
     html = render.venue_card({**r, "source": "https://x.example/music"})
     assert 'data-tags="date-night waterfront outdoor-seating no-cover"' in html
+
+
+def test_failed_run_sends_a_telegram_alert():
+    import llm
+    import nightset
+    msg = nightset.failure_alert("build", llm.LLMError("xAI API 403: ... used all available credits"))
+    assert msg.startswith("🚨 Nightset build failed:") and "console.x.ai" in msg
