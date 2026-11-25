@@ -1,0 +1,224 @@
+{
+  "slug": "date-night-with-live-music-in-fort-myers-fl",
+  "title": "Date night with live music in Fort Myers, FL",
+  "city": "Fort Myers",
+  "description": "Recurring live-music nights at restaurants and bars in Fort Myers, Fort Myers Beach, and Cape Coral, with schedules taken from each venue’s own website.",
+  "records": [
+    {
+      "name": "License to Chill Bar & Grill",
+      "location": "251 Crescent Street, Fort Myers Beach, FL 33931",
+      "facts": {
+        "music_nights": "Sunday-Thursday: 6 pm - 9 pm; Friday-Saturday: 7:30 pm - 10:30 pm",
+        "genres": "unknown",
+        "cover": "unknown",
+        "setting": "waterfront",
+        "venue_type": "restaurant",
+        "food": "full menu",
+        "ages": "all ages",
+        "area": "Fort Myers Beach",
+        "tags": [
+          "lively",
+          "waterfront",
+          "outdoor seating",
+          "family friendly",
+          "dinner menu"
+        ]
+      },
+      "website": "https://www.margaritavilleresorts.com/margaritaville-beach-resort-fort-myers-beach/eat-drink/license-to-chill-bar-grill",
+      "phone": "",
+      "source": "https://www.margaritavilleresorts.com/margaritaville-beach-resort-fort-myers-beach/eat-drink/license-to-chill-bar-grill",
+      "checked": "2026-11-25"
+    },
+    {
+      "name": "Lah De Dah Beach Bar & Grill",
+      "location": "1170 Estero Boulevard, Fort Myers Beach, FL 33931",
+      "facts": {
+        "music_nights": "Mon & Sun 5-8pm; Fri & Sat 7-10pm",
+        "genres": "unknown",
+        "cover": "unknown",
+        "setting": "waterfront",
+        "venue_type": "bar",
+        "food": "full menu",
+        "ages": "unknown",
+        "area": "Fort Myers Beach",
+        "tags": [
+          "waterfront",
+          "outdoor seating",
+          "lively",
+          "dinner menu"
+        ]
+      },
+      "website": "https://www.margaritavilleresorts.com/margaritaville-beach-resort-fort-myers-beach/eat-drink/lah-de-dah-beach-bar-grill",
+      "phone": "(239) 899-4095",
+      "source": "https://www.margaritavilleresorts.com/margaritaville-beach-resort-fort-myers-beach/eat-drink/lah-de-dah-beach-bar-grill",
+      "checked": "2026-11-25"
+    },
+    {
+      "name": "GatorBites Tail & Ale",
+      "location": "20351 Summerlin Rd, Ste #120, Fort Myers, FL 33908",
+      "facts": {
+        "music_nights": "Tue Live Music 5:00pm–8:00pm; Wed Live Music 6:00pm–9:00pm; Thu Live Music 5:00pm-8:00pm; Fri Live Music 5:00-8:00pm",
+        "genres": "unknown",
+        "cover": "unknown",
+        "setting": "unknown",
+        "venue_type": "restaurant",
+        "food": "full menu",
+        "ages": "unknown",
+        "area": "Fort Myers",
+        "tags": [
+          "dinner menu"
+        ]
+      },
+      "website": "https://www.gatorbitesfortmyers.com/",
+      "phone": "(239) 267-1317",
+      "source": "https://www.gatorbitesfortmyers.com/entertainment",
+      "checked": "2026-11-25"
+    },
+    {
+      "name": "Bonita Fish Company",
+      "location": "Under the Matanzas Pass Bridge on Estero Bay, Fort Myers Beach",
+      "facts": {
+        "music_nights": "Live music daily; every day of the week, afternoon sets through sunset",
+        "genres": "acoustic",
+        "cover": "Free",
+        "setting": "waterfront",
+        "venue_type": "restaurant",
+        "food": "full menu",
+        "ages": "all ages",
+        "area": "Fort Myers Beach",
+        "tags": [
+          "family friendly",
+          "waterfront",
+          "outdoor seating",
+          "no cover",
+          "dinner menu"
+        ]
+      },
+      "website": "https://bonitafishco.com/",
+      "phone": "",
+      "source": "https://bonitafishco.com/live-music/",
+      "checked": "2026-11-25"
+    },
+    {
+      "name": "Lighthouse Waterfront Restaurant",
+      "location": "Just before the Sanibel Causeway next to Port Sanibel Marina, Fort Myers",
+      "facts": {
+        "music_nights": "Live music every day, every afternoon and evening",
+        "genres": "unknown",
+        "cover": "unknown",
+        "setting": "waterfront",
+        "venue_type": "restaurant",
+        "food": "full menu",
+        "ages": "unknown",
+        "area": "Fort Myers",
+        "tags": [
+          "waterfront",
+          "outdoor seating",
+          "dinner menu",
+          "date night"
+        ]
+      },
+      "website": "https://lighthousewaterfrontrestaurant.com/",
+      "phone": "(239) 489-0770",
+      "source": "https://lighthousewaterfrontrestaurant.com/",
+      "checked": "2026-11-25"
+    },
+    {
+      "name": "Matanzas on the Bay",
+      "location": "416 Crescent Street, Fort Myers Beach, FL 33931",
+      "facts": {
+        "music_nights": "Mon Dockside Duo 4:30pm-8:30pm; Tue Megan Rose 6:30pm-9:30pm; Wed Aaron 6:30pm-9:30pm; Thu DJ Mike Trivia & Karaoke 6:30pm-9:30pm; Fri Vergo Ent with David 6:30pm-9:30pm; Sat DJ Kaveman Trivia & Karaoke 6:30pm-9:30pm; Sun All Day Reggae",
+        "genres": "reggae",
+        "cover": "unknown",
+        "setting": "waterfront",
+        "venue_type": "restaurant",
+        "food": "full menu",
+        "ages": "unknown",
+        "area": "Fort Myers Beach",
+        "tags": [
+          "waterfront",
+          "dinner menu",
+          "date night",
+          "conversation friendly"
+        ]
+      },
+      "website": "https://matanzasonthebay.com/",
+      "phone": "(239) 463-3838",
+      "source": "https://matanzasonthebay.com/events/",
+      "checked": "2026-11-25"
+    },
+    {
+      "name": "Backyard Social",
+      "location": "16371 Corporate Commerce Way, Fort Myers, FL 33913",
+      "facts": {
+        "music_nights": "Sun live music at 6 PM; Wed live music most weeks; Thu live music most weeks; Fri live music at 6 PM; Sat live music at 6 PM",
+        "genres": "unknown",
+        "cover": "unknown",
+        "setting": "outdoor",
+        "venue_type": "bar",
+        "food": "unknown",
+        "ages": "all ages",
+        "area": "Fort Myers",
+        "tags": [
+          "outdoor seating",
+          "family friendly"
+        ]
+      },
+      "website": "https://backyardsocial.com/",
+      "phone": "(239) 703-7077",
+      "source": "https://backyardsocial.com/community-blog/",
+      "checked": "2026-11-25"
+    },
+    {
+      "name": "BackStreets Sports Bar",
+      "location": "South Cape Coral Entertainment District, Downtown Cape Coral, FL",
+      "facts": {
+        "music_nights": "Live Music 7 Days A Week; live entertainment nightly",
+        "genres": "unknown",
+        "cover": "unknown",
+        "setting": "mixed",
+        "venue_type": "bar",
+        "food": "bar food",
+        "ages": "21+",
+        "area": "Cape Coral",
+        "tags": [
+          "21+",
+          "lively",
+          "outdoor seating",
+          "late night"
+        ]
+      },
+      "website": "https://www.backstreetssportsbar.com/",
+      "phone": "(239) 945-7555",
+      "source": "https://www.backstreetssportsbar.com/",
+      "checked": "2026-11-25"
+    },
+    {
+      "name": "The Whale",
+      "location": "1249 Estero Blvd, Fort Myers Beach, FL 33931",
+      "facts": {
+        "music_nights": "Daily live entertainment; nightly live entertainment",
+        "genres": "island",
+        "cover": "unknown",
+        "setting": "waterfront",
+        "venue_type": "restaurant",
+        "food": "full menu",
+        "ages": "unknown",
+        "area": "Fort Myers Beach",
+        "tags": [
+          "waterfront",
+          "outdoor seating",
+          "dinner menu"
+        ]
+      },
+      "website": "https://thewhalefmb.com/",
+      "phone": "",
+      "source": "https://thewhalefmb.com/fort-myers-beach-the-whale-about",
+      "checked": "2026-11-25"
+    }
+  ],
+  "body_md": "Live music is on the schedule all week at restaurants and bars in Fort Myers, Fort Myers Beach, and Cape Coral. Bonita Fish Company, Lighthouse Waterfront Restaurant, The Whale, and BackStreets Sports Bar list entertainment every day.\n\n## By night\n\n- **Sunday:** Bonita Fish Company, Lighthouse, The Whale, BackStreets, Backyard Social, Lah De Dah, License to Chill, Matanzas on the Bay.\n- **Monday:** Bonita Fish Company, Lighthouse, The Whale, BackStreets, Lah De Dah, License to Chill, Matanzas on the Bay.\n- **Tuesday:** Bonita Fish Company, Lighthouse, The Whale, BackStreets, GatorBites Tail & Ale, License to Chill, Matanzas on the Bay.\n- **Wednesday:** Bonita Fish Company, Lighthouse, The Whale, BackStreets, Backyard Social (most weeks), GatorBites Tail & Ale, License to Chill, Matanzas on the Bay.\n- **Thursday:** Bonita Fish Company, Lighthouse, The Whale, BackStreets, Backyard Social (most weeks), GatorBites Tail & Ale, License to Chill, Matanzas on the Bay.\n- **Friday:** Bonita Fish Company, Lighthouse, The Whale, BackStreets, Backyard Social, GatorBites Tail & Ale, Lah De Dah, License to Chill, Matanzas on the Bay.\n- **Saturday:** Bonita Fish Company, Lighthouse, The Whale, BackStreets, Backyard Social, Lah De Dah, License to Chill, Matanzas on the Bay.\n\n## Good to know\n\n- **Cover:** Bonita Fish Company lists free live music and no cover.\n- **Setting:** Six venues are waterfront; Backyard Social is outdoor; BackStreets Sports Bar is mixed, with outdoor seating.\n- **Food and ages:** Seven venues list a full menu; BackStreets Sports Bar lists bar food and is 21+. License to Chill, Bonita Fish Company, and Backyard Social are all ages.\n\n## FAQ\n\n### Is live music listed every day?\nYes. Bonita Fish Company, Lighthouse Waterfront Restaurant, The Whale, and BackStreets Sports Bar list daily entertainment.\n\n### What genres are listed?\nAcoustic at Bonita Fish Company, island at The Whale, and reggae at Matanzas on the Bay.\n\n### Which venues are tagged date night?\nLighthouse Waterfront Restaurant and Matanzas on the Bay are tagged date night; Matanzas on the Bay is tagged conversation friendly.",
+  "citations": [],
+  "published": "2026-11-25",
+  "updated": "2026-11-25"
+}
