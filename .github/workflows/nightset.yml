@@ -4,7 +4,7 @@ name: Nightset
 # and variables > Actions > Variables). Manual runs (Run workflow) work without it.
 on:
   schedule:
-    - cron: "30 8 * * *"    # nightly build: ~3:30-4:30am US Eastern
+    - cron: "30 8 */3 * *"  # build every 3 days (1st, 4th, 7th...): ~3:30-4:30am US Eastern
     - cron: "35 13 * * *"   # daily report (weekly on Mondays)
   workflow_dispatch:
     inputs:
@@ -46,7 +46,7 @@ jobs:
       - id: pick
         run: |
           case "${{ github.event.schedule }}" in
-            "30 8 * * *")  t=build ;;
+            "30 8 */3 * *") t=build ;;
             "35 13 * * *") t=report ;;
             *)             t="${{ inputs.task }}" ;;
           esac

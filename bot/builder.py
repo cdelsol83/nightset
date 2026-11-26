@@ -11,7 +11,7 @@ import store
 RESEARCH_PROMPT = """Page: "{title}" on {site}, a guide to live music in {area}.
 Look in {city} and nearby ({nearby}).
 {rules}
-Use web search to collect {min_n}-12 venues that fit this page. For each venue return:
+Use web search to collect {min_n}-{max_n} venues that fit this page. For each venue return:
   "name", "location" (street address if stated), "facts": the facts listed above,
   "website": the venue's own website or "", "phone": the venue's phone number as published on its
   own site or "", and "source": the venue's own page where you confirmed the music schedule.
@@ -55,7 +55,7 @@ def sync_topics(topics):
 def make_page(title, city, published=None):
     research, citations = llm.ask_json(RESEARCH_PROMPT.format(
         title=title, site=config.SITE_NAME, area=config.AREA, city=city,
-        nearby=config.CITIES.get(city, ""), min_n=config.MIN_RECORDS,
+        nearby=config.CITIES.get(city, ""), min_n=config.MIN_RECORDS, max_n=config.MAX_RECORDS,
         rules=config.VENUE_RULES.format(city=city, vibes=", ".join(config.VIBES))))
     records = [r for r in research.get("records", []) if isinstance(r, dict) and r.get("name")
                and quality.schedule_verified(r)]  # unconfirmed schedules never ship

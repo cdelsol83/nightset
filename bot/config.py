@@ -70,6 +70,9 @@ NOT_VENUE_SOURCES = (
 # --- Builder quality gate: a page that fails ANY of these is not published ---
 PAGES_PER_NIGHT = 1       # new or re-checked guides per night (each costs xAI credits)
 MIN_RECORDS = 5
+# Cost controls (each build is one web-search research call plus one writing call)
+MAX_RECORDS = 7             # stop researching after this many entries; pages still need MIN_RECORDS
+REASONING_EFFORT = (os.environ.get("MOGUL_REASONING") or "").strip() or "low"  # low/medium/high; "off" = model default
 MIN_WORDS = 150
 MAX_SIMILARITY = 0.55
 STALE_AFTER_DAYS = 30       # music schedules change: each page is re-checked about monthly
