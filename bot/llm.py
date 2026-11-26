@@ -30,12 +30,19 @@ def ask(prompt, tools=("web_search",), system=None):
     body = {"model": config.XAI_MODEL, "input": prompt, "tools": [{"type": t} for t in tools], "stream": True}
     if system:
         body["input"] = [{"role": "system", "content": system}, {"role": "user", "content": prompt}]
+    if config.REASONING_EFFORT not in ("", "off"):  # "low" thinks less and costs less than the model's default ("high")
+        body["reasoning"] = {"effort": config.REASONING_EFFORT}
     for attempt in range(1, ATTEMPTS + 1):
         try:
             return _call(body)
         except urllib.error.HTTPError as e:
+            detail = e.read()[:500]
+            if e.code == 400 and "reasoning" in body and b"reason" in detail.lower():
+                print(f"xAI rejected the reasoning setting, retrying without it: {detail!r}")
+                body.pop("reasoning")
+                continue
             if (e.code < 500 and e.code != 429) or attempt == ATTEMPTS:
-                raise LLMError(f"xAI API {e.code}: {e.read()[:500]!r}") from e
+                raise LLMError(f"xAI API {e.code}: {detail!r}") from e
         except BusyError as e:
             if attempt == ATTEMPTS:
                 raise LLMError(f"xAI model still at capacity after {ATTEMPTS} attempts: {e}") from e

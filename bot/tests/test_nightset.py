@@ -142,3 +142,35 @@ def test_failed_run_sends_a_telegram_alert():
     import nightset
     msg = nightset.failure_alert("build", llm.LLMError("xAI API 403: ... used all available credits"))
     assert msg.startswith("🚨 Nightset build failed:") and "console.x.ai" in msg
+
+
+def test_reasoning_is_low_and_dropped_if_xai_rejects_it(monkeypatch):
+    import io
+    import urllib.error
+    import llm
+    monkeypatch.setattr(config, "DEMO", False)
+    monkeypatch.setattr(config, "XAI_API_KEY", "k")
+    monkeypatch.setattr(config, "REASONING_EFFORT", "low")
+    sent = []
+
+    class Stream:
+        def __enter__(self):
+            return iter([b"data: " + json.dumps({"type": "response.output_text.delta", "delta": "ok"}).encode() + b"\n"])
+
+        def __exit__(self, *a):
+            return False
+
+    def urlopen(req, timeout):
+        body = json.loads(req.data)
+        sent.append(body.get("reasoning"))
+        if len(sent) == 1:
+            raise urllib.error.HTTPError(req.full_url, 400, "bad", {}, io.BytesIO(b"unknown field: reasoning"))
+        return Stream()
+    monkeypatch.setattr(llm.urllib.request, "urlopen", urlopen)
+    assert llm.ask("hi") == ("ok", [])
+    assert sent == [{"effort": "low"}, None]  # asked for low, then retried without it
+
+
+def test_research_asks_for_at_most_max_records():
+    import builder
+    assert "{max_n}" in builder.RESEARCH_PROMPT and config.MAX_RECORDS == 7
